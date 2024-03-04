@@ -1,0 +1,5 @@
+[UIScreen_Fuller_Override_ResistanceManagementScreen]
+m_strMecManagmentTitle = "Management des CEMs de la résistance"
+m_strNoMecsStr = "Pas de CEMs dans cet Avant-poste!"
+m_strResistanceMecNumber = "CEMs de la résistance: <XGParam:IntValue0/>"
+m_strResistanceMecname = "Type de CEM :"

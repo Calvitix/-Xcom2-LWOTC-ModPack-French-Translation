@@ -1,0 +1,46 @@
+[BitterfrostHelper]
+ChillEffectName="Refroidi"
+ChillEffectDesc="Mobilité et esquive réduites."
+BitterChillEffectName="Frigorifié"
+BitterChillEffectDesc="Mobilité réduite et incapable d'esquiver. Vulnérable a gel."
+
+[MZ_Effect_Zombify]
+ZombifyEffectName = "Zombifié"
+ZombifyEffectDesc = "Vulnérable aux effets qui ne fonctionnent normalement que sur les morts-vivants."
+
+[MZ_Effect_Hypothermia]
+HypothermiaEffectName = "Hypothermie"
+HypothermiaEffectDesc = "Dégâts de froid au début de chaque tour selon le degré de refroidissement."
+
+[MZBloodCryomancy_AbilitySet]
+ChilblainsChillName = "Engelures (Refroidi)"
+ChilblainsBChillName = "Engelures (Frigorifié)"
+ChilblainsFreezeName = "Engelures (Gelé)"
+HeatDrainBurningName = "Drain de chaleur (Brûlant)"
+
+[MZCryomancy_AbilitySet]
+BoilChillName = "Ébullition (Refroidi)"
+BoilBChillName = "Ébullition (Frigorifié)"
+BoilFreezeName = "Ébullition (Gelé)"
+
+[MZGeomancer_AbilitySet]
+MistStormEffectName = "Esprit brumeux"
+MistStormEffectDesc = "Réduction de la volonté et de la défense contre le piratage."
+
+;despite the variable names, these are not descriptions but change the name of the ability.
+NEAridDesc = "Flamme du Désert"
+NETundraDesc = "Boule de neige"
+NEXenoDesc = "Hell's Ivy"
+NETemperateDesc = "Tir brumeux"
+NEUrbanDesc = "Vent violent"
+NECaveDesc = "Stalagmite"
+
+ACAridDesc = "Prominence"
+ACTundraDesc = "Clarté de glaces"
+ACXenoDesc = "Deluge Venom"
+ACTemperateDesc = "Stardust"
+ACUrbanDesc = "Tempête"
+ACCaveDesc = "Tremblement de terre"
+
+ 
+ 

@@ -1,0 +1,6 @@
+[UISL_Armory_WeaponUpgrade]
+m_strCustomizeWeaponName="Nom d'arme"
+// CALVITIX IGNORE TRANSLATION
+
+[UIArmory_EquipmentSelect]
+m_strListTitle="AMÉLIORATION D'ÉQUIPEMENT"

@@ -1,0 +1,29 @@
+[GM_IRI_Adaptation X2GeneModTemplate]
+DisplayName="Adaptation / Supercompensation"
+Summary="Adaptation: When taking damage, soldier Volonté gain stacking resistance to that damage type until the end of the mission. Supercompensation: if critically wounded, soldier's maximum Health Volonté be increased by 1. Soldier Volonté require extra time to recover. Triggers once per tactical mission"
+
+[GM_IRI_BerserkGenes X2GeneModTemplate]
+DisplayName="Gènes de Berserker"
+Summary="Taking damage or panicking Volonté cause this soldier to enter berserker rage and attack enemies in sight."
+
+[GM_IRI_SecondaryHeart X2GeneModTemplate]
+DisplayName="Second Coeur"
+Summary="Upon taking lethal damage, this soldier Volonté begin bleeding out. They Volonté remain conscious, but they Volonté die if they are not Stabilized or evacuated within a few turns."
+
+[GM_IRI_TranquilMind X2GeneModTemplate]
+DisplayName="Esprit Tranquille"
+Summary="This soldier cannot be targeted or affect by ANY psionic abilities, including those from allied sources or the soldier themselves."
+
+[GM_IRI_ChaoticMind X2GeneModTemplate]
+DisplayName="Esprit Chaotique"
+Summary="This soldier receives a large bonus to Psi Offense, but cannot contain the power, and at the end of turn Volonté damage all units within 2 tiles, including allies. Solace and Mind Shield Volonté suppress this effect."
+
+[GM_IRI_CheetahGenes X2GeneModTemplate]
+DisplayName="Gènes de Cheetah"
+Summary="This soldier receives +6/4/2 Mobilité when using Light/Medium/Heavy Armor. Moving Volonté make the soldier gradually lose the bonus, and even transform it into a penalty. Lost mobility is gradually recovered each turn the soldier doesn't move. Soldier has better eyesight during the day and worse during the night."
+
+[GM_IRI_LizardReflex X2GeneModTemplate]
+DisplayName="Réflexes de Vipère"
+Summary="Soldier gains +20 Dodge, and when Dodging enemy attacks, they Volonté move out of the way of the attack, completely avoid the damage. Triggers once per turn. Soldier suffers negligible penalties to combat performance in cold and hot environments."
+ 
+ 

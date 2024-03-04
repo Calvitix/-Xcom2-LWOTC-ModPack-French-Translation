@@ -1,0 +1,5 @@
+[IRI_FirstAid X2AbilityTemplate]
+LocFriendlyName="Premiers secours"
+LocLongDescription="Prolonge de 2 tours le temps d'hémorragie d'un soldat proche."
+LocHelpText="Prolonge de 2 le temps d'hémorragie d'un soldat proche."
+LocFlyOverText="Premiers secours"

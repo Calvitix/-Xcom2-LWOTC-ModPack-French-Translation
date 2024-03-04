@@ -1,0 +1,107 @@
+[GM_IRI_ChaoticMind X2GeneModTemplate]
+DisplayName="Esprit chaotique"
+// CALVITIX IGNORE TRANSLATION
+Summary="Ce soldat reçoit un grand bonus à l'offensive PSI, mais ne peut pas contenir la puissance, et à la fin du tour endommagera toutes les unités dans les 2 cases, y compris les alliés. L'élément de bouclier mental ou la capacité passive de surface d'espace d'effet de réconfort supprimera cet effet. La capacité active de cible unique de réconfort ne supprimera pas cet effet."
+
+[MZ_AdaptiveBoneMarrow X2GeneModTemplate]
+DisplayName="Moelle osseuse adaptative"
+Summary="La capacité du soldat de l'Advent Nox Assault à guérir passivement ses propres blessures a provoqué cette amélioration des jambes. Le temps de récupération des plaies est réduit de 66% pour ce soldat, et ils régénèrent certains PV à chaque tour."
+
+[MZ_AdrenalNeurosympathy X2GeneModTemplate]
+DisplayName="Neurosympathie surrénale"
+Summary="Les phéromones du Goliath sont ce qui inspire leurs cris de guerre, ainsi que cette modification de la peau. Accorde une augmentation des phéromones de combat qui augmente le but, le hasard et la mobilité des soldats à proximité lorsqu'ils tuent un ennemi."
+
+[MZ_NeuralDamping X2GeneModTemplate]
+DisplayName="Amortissement neural"
+Summary="La Volonté impressionnante du prêtre Advent, leur permettant de résister aux attaques psioniques, est utilisée pour cette modification du cerveau. Ce soldat subit moins de dégâts des attaques psioniques et est à l'abri de toutes les afflictions mentales."
+
+[MZ_NeuralFeedback X2GeneModTemplate]
+DisplayName="Rétroaction neuronale"
+Summary="La prouesse psionique agressive du sorcier Advent est le fondement de cette modification du cerveau. Les capacités psioniques utilisées contre ce soldat entraîneront des dégâts à la rétroaction à l'attaquant, ainsi que la mise en place de toutes leurs capacités psioniques lors du temps de recharge. Ne réduit pas les chances de succès de l'attaquant."
+
+[MZ_NictitatingMembranes X2GeneModTemplate]
+DisplayName="Membranes nictitantes"
+Summary="Une amélioration des yeux d'un soldat, basée sur les paupières d'un sectoïde. Ces paupières intérieures transparentes contrecarrent les sanctions visée de poison, de désorientation et fumigène. Ils retirent également les aveugles de ce soldat au début de leur tour."
+
+[MZ_PsyberInterface X2GeneModTemplate]
+DisplayName="Cyber Lentilles implantées"
+Summary="Une amélioration des yeux constituée d'une minuscule lentille cybernétique implantée basée sur l'optique du drone de phase. Il détecte et affiche des informations au soldat qui les aide à pirater et à cibler des ennemis robotiques."
+
+[MZ_RegenPheremones X2GeneModTemplate]
+DisplayName="Phérémones de regén."
+Summary="Une perfusion de phéromones d'Anonyme sous la peau. Accorde une augmentation des phéromones de Regen qui nettoie les statuts dommageables et régénère la santé des soldats voisins lorsque ce soldat tue un ennemi."
+
+[MZ_ViperBlood X2GeneModTemplate]
+DisplayName="Sang de vipère"
+Summary= "Une augmentation thoracique qui permet au coeur du soldat de produire du sang de vipère aux côtés de la leur. Accorde l'immunité au poison. Le soldat saignera le poison lorsqu'il sera endommagé et gagnera un objet, des chances critiques et l'esquive tout en se tenant dans des nuages de poison."
+
+[MZ_DepthPerception X2GeneModTemplate]
+DisplayName="Perception de la profondeur"
+Summary="Une modification des yeux d'un soldat, basée sur la vision à longue distance inégalée du tireur d'élite Advent. Donne un objectif bonus et des chances critiques lorsque le soldat a un avantage de hauteur sur sa cible."
+
+[MZ_HyperreactivePupils X2GeneModTemplate]
+DisplayName="Pupilles hyperréactifs"
+Summary="La vue fiable du soldat Advent a conduit à la naissance de cette amélioration des yeux. Accorde à ce soldat un bonus visée après avoir raté un coup."
+
+[GM_WallClimb X2GeneModTemplate]
+DisplayName="Grimpe d'araignée"
+Summary="La vitesse et les capacités d'escalade d'une Chrysalis se sont déroulées en une augmentation d'une jambe. Permet à un soldat de grimper sur les murs, les permettant de se déplacer de manière transparente sur les toits et le sol en dessous. Accorde également un bonus de mobilité passif de 1."
+
+[GM_MimeticSkin X2GeneModTemplate]
+DisplayName="Peau mimétique"
+Summary="En combinant des aspects du Spectre et du Nox Faceless, nous avons créé cette augmentation furtive de pointe pour la peau d'un soldat. Confère la capacité de changer le motif de la peau pour correspondre à le Couvert. Lorsqu'un soldat se déplace sur un Couvert élevée, il se cache. Ne fonctionne pas si des ennemis ont une ligne de vue au soldat. Malheureusement, la capacité de furtivité accorde par la peau mimétique a des effets secondaires mentaux involontaires tels qu'une paranoïa accrue, réduisant définitivement la Volonté de ce soldat de 10."
+
+[MZ_Wiredreflexes X2GeneModTemplate]
+DisplayName="Booster synaptique"
+Summary="La supériorité technologique du Sectopode et la physiologie mystérieuse du spectre sont mises au travail dans cette amélioration cybernétique des jambes. Accorde la capacité supérieure du soldat dans toutes les situations de réaction, changeant de rouleaux à succès pour être plus favorable à un stade."
+
+[GM_MarathonRunner_MJ X2GeneModTemplate]
+DisplayName="Muscles des jambes renforcées"
+Summary="Les puissants muscles des jambes Éclaireur Advent ont inspiré cette modification des jambes destinée à la course à longue distance. Il permet à ce soldat de dépenser 2 actions standard pour obtenir 3 actions de mouvement uniquement."
+
+[GM_ShadowOps_AbsolutelyCritical_MJ X2GeneModTemplate]
+DisplayName="Cortex visuel raffiné"
+Summary="La capacité impressionnante Éclaireur Advent Hunter à frapper les points faibles de leurs cibles a systématiquement provoqué cette modification du cerveau. Il accorde à ce soldat un bonus passif de+25% de chances critiques contre les cibles flanquées."
+
+[GM_CelatidImmunities_MJ X2GeneModTemplate]
+DisplayName="Infusion de biomasse Célatide"
+Summary="Une perfusion de biomasse celatide sous la peau qui améliore le système immunitaire et les nerfs du soldat. Cela accorde à l'immunité le soldat du poison, du poison Chrysalis et de l'étourdissement."
+
+[GM_GrimyFireWall_MJ X2GeneModTemplate]
+DisplayName="Glande de vipère de flamme"
+Summary="Une glande de flamme implantée dans la poitrine du soldat, basée sur celle de la vipère de flamme. La glande transporte un mélange inflammable qui est poussé à travers un tube sous-holaire avant d'être expulsé à travers un lance-flammes monté sur le bras. L'attaque qui en résulte est si intense qu'elle enflammera chaque case de terrain qu'il frappe. La glande de flamme est difficile à contrôler pour le soldat, et il faut beaucoup de temps pour reconstituer son mélange biologique, ce qui limite son utilisation à une fois par mission."
+
+[GM_GrimyEnrage_MJ X2GeneModTemplate]
+DisplayName="Mélaslas surrénaliens frénétiques"
+Summary="Une modification de la poitrine inspirée par l'archon, permettant au soldat de produire des quantités inégalées d'adrénaline. Cela permet au soldat de commencer son tour avec une course et un pistolet activés à chaque fois qu'ils sont blessés. Malheureusement, la production accrue d'adrénaline réduit la capacité du soldat à se battre sur une longue période car ils ont du mal à se reposer en permanence, réduisant définitivement la Volonté de ce soldat à 10."
+
+[GM_BioGeneralImmunities_MJ X2GeneModTemplate]
+DisplayName="Nox neuroimmunité"
+Summary="Une perfusion des anticorps supérieurs d'un Nox général sous la peau du soldat. Cela accorde l'immunité du soldat à l'acide, au poison, au poison Chrysalis et aux afflictions mentales."
+
+[GM_BS_Unstable_MJ X2GeneModTemplate]
+DisplayName="Casse-tête"
+Summary="Un implant cérébral basé sur le Gardien, un peu comme le neuro-fouet en termes de technologie utilisée malgré sa taille beaucoup plus petite. Cependant, le fait d'être connecté directement au cerveau du soldat lui permet d'être utilisé à son plein potentiel, pour le meilleur ou pour le pire. Le soldat inflige 50% des dégâts accrus avec les capacités psioniques dommageables, mais a 25% de chances de paniquer chaque fois qu'ils en utilisent un. De plus, le péage du neurobreaker sur la santé mentale du soldat réduit leur testament de 10 en permanence."
+
+[GM_ShadowOps_Charge_M1_MJ X2GeneModTemplate]
+DisplayName="Charge d'assaut alpha"
+Summary="Un implant de jambe basé sur le soldat Advent Assault, qui stimule les capacités de sprint d'un soldat. Accorde au soldat la capacité d'effectuer une action sans mouvement après un course, une fois par mission."
+
+[GM_ShadowOps_Charge_M2_MJ X2GeneModTemplate]
+DisplayName="Charge d'assaut bêta"
+Summary="Un implant de jambe basé sur le soldat avancé d'assaut Advent, qui stimule les capacités de sprint d'un soldat. Accorde au soldat la capacité d'effectuer une action sans mouvement après un course, deux fois par mission avec un temps de recharge de deux tours entre les utilisations."
+
+[GM_ShadowOps_Charge_M3_MJ X2GeneModTemplate]
+DisplayName="Charge d'assaut delta"
+Summary="Un implant de jambe basé sur le Commando Advent Élite, qui stimule les capacités de sprint d'un soldat. Accorde au soldat la capacité d'effectuer une action sans mouvement après un course, trois fois par mission avec un temps de recharge de trois tours entre les utilisations."
+
+[GM_ShadowOps_Charge_M4_MJ X2GeneModTemplate]
+DisplayName="Charge d'assaut Gamma"
+Summary="Un implant de jambe basé sur le capitaine de soldat de l'assaut Advent, qui stimule les capacités de sprint d'un soldat. Accorde au soldat la capacité d'effectuer une action sans mouvement après un course, quatre fois par mission avec un temps de recharge de quatre tours entre les utilisations."
+
+[GM_MZPocketShredder_MJ X2GeneModTemplate]
+DisplayName="Canon de démolition"
+Summary="Un implant de bras basé sur l'incroyable puissance de feu des CEM d'assaut Advent. Accorde au soldat la capacité de canon de démolition, ce qui inflige des dégâts faibles mais des dégâts de la déchiqueté et de l'environnement massifs qui peuvent être utilisés indépendamment de l'armure ou des armes équipées, une fois par mission."
+
+[UIFacility_GeneModChamberSlot]
+m_strWarnFirstTimeGeneModDialogText="Félicitations, commandant ! Vous êtes sur le point de franchir la ligne des pratiques médicales contraires à l'éthique, connues sous le nom de MODding génétiques. Avant de passer sous le bistouri, il y a quelques règles à suivre :<ul><li><b>LES MODIFICATIONS GÉNÉTIQUES SONT PERMANENTES !</b></li><li>Vous pouvez annuler le projet à tout moment, mais les ressources qui ont été consacrées à ce projet Volonté seront gaspillées.</li><li>Some Gene mods require prerequisites.</li><li>Tous les Gene Mods ne peuvent pas être installés en même temps. Certains types sont incompatibles avec d'autres.</li><li>Certains Gene Mods réduisent la Volonté maximale du soldat.</li></ul>\n\nAmusez-vous bien à ouvrir la boîte de Pandore !"

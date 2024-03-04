@@ -1,0 +1,18 @@
+[BitterfrostHelper]
+ChillEffectName="Refroidi"
+ChillEffectDesc="Mobilité et esquive réduites."
+BitterChillEffectName="Frigorifié"
+BitterChillEffectDesc="Mobilité réduite et incapacité d'esquiver. Vulnérable au gel."
+
+[X2Effect_RechargingShield]
+HealedMessage="+<Heal/> de Bouclier rechargé"
+
+[MZ_Effect_ShieldSteal]
+HealedMessage="+<Heal/> de Bouclier déchargé"
+
+[X2Ability_FrostDivisionSpecialActive]
+ShieldAreaEffectName="Bouclier anti-givre"
+ShieldAreaEffectDesc="Rechargement du bouclier. Supprimé si le Bruiseur de la Légion de Givre est tué."
+
+ShieldHeatbreakerEffectName="Brise-chaleur"
+ShieldHeatbreakerEffectDesc="Rechargement de la protection."

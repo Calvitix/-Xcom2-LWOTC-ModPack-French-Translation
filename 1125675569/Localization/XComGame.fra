@@ -1,0 +1,43 @@
+
+// CALVITIX IGNORE TRANSLATION
+[Splittertarn X2BodyPartTemplate]
+DisplayName="Splittertarn"
+
+[Eichenlaubtarn X2BodyPartTemplate]
+DisplayName="Eichenlaubtarn"
+
+[TeloMimetico X2BodyPartTemplate]
+DisplayName="Telo Mimetico"
+
+[Sumpftarn X2BodyPartTemplate]
+DisplayName="Sumpftarn"
+
+[FrogSkin X2BodyPartTemplate]
+DisplayName="Frog Skin"
+
+[Dot44 X2BodyPartTemplate]
+DisplayName="Erbsentarn"
+
+[Palmenmuster X2BodyPartTemplate]
+DisplayName="Palmenmuster"
+
+[Amoeba X2BodyPartTemplate]
+DisplayName="Amoeba"
+
+[leaf X2BodyPartTemplate]
+DisplayName="Leaf Pattern"
+
+[denison X2BodyPartTemplate]
+DisplayName="Denison Smock"
+
+[Platanen X2BodyPartTemplate]
+DisplayName="Platanentarn"
+
+[Leiber X2BodyPartTemplate]
+DisplayName="Leibermuster"
+
+[TTS X2BodyPartTemplate]
+DisplayName="TTsMKK"
+
+[Austra X2BodyPartTemplate]
+DisplayName="Australian Vietnam Camo"

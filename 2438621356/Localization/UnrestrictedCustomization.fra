@@ -1,0 +1,182 @@
+;============================================================================================
+;============================================================================================
+// CALVITIX IGNORE TRANSLATION
+
+[Vanilla]
+Vest Black = "Gilet Noir"
+;//TODO other names
+
+;============================================================================================
+;============================================================================================
+
+[UnrestrictedCustomization]
+None = "Aucun"
+
+FilterPanelTooltip = "Filtrez des pièces dans la liste, ou qui peuvent être utilisées pour la randomisation."
+
+;==================
+;=== Randomizer ===
+;==================
+
+RandomizeButtonLabel = ">> Gén. Aléatoire &lt;&lt;"
+Randomize = "Randomiser"
+Randomized = "Aléatoire"
+
+;=== Options Menu ===
+
+ArmorTypeDeltaMax = "Différence de type armure maximum"
+ArmorTypeDeltaMaxDescr = "La différence autorisée entre ArmourType (S) définie dans le panneau de filtrage et le ArmourType de la partie du cadavre."
+
+TechLevelDeltaMax = "Différence de niveau technique maximum"
+TechLevelDeltaMaxDescr = "La différence autorisée entre Techlevel (S) définie dans le panneau de filtrage et la technologie de la partie du cadavre."
+
+ArmorTypeTolerance = "Tolérance de type armure"
+ArmorTypeToleranceDescr = "Chance de sélectionner une pièce même si elle ne correspond pas aux filtres définis dans le panneau de filtrage.\n(en supposant que la différence est inférieure ou égale à la différence de type d'armure maximum)"
+
+TechLevelTolerance = "Tolérance au niveau technologique"
+TechLevelToleranceDescr = "Chance de sélectionner une pièce même si elle ne correspond pas aux filtres définis dans le panneau de filtrage.\n(en supposant que la différence est inférieure ou égale à la différence de niveau technologique maximum)"
+
+HelmetDrawChance = "Chance de casque"
+HelmetDrawChanceDescr = "Chance d'ajouter un casque"
+
+FacePropUpperDrawChance = "Face Prop Haute Chance"
+FacePropUpperDrawChanceDescr = "Chance d'ajouter un accessoire supérieur"
+
+FacePropLowerDrawChance = "Face Prop Lower Chance"
+FacePropLowerDrawChanceDescr = "Chance d'ajouter un accessoire de face inférieure"
+
+ShoulderDrawChance = "Chance d'épaule"
+ShoulderDrawChanceDescr = "Chance d'ajouter des épaules"
+
+ForearmDrawChance = "Chance de l'avant-bras"
+ForearmDrawChanceDescr = "Chance d'ajouter des avant-bras"
+
+TorsoDecoDrawChance = "Chance du torse déco"
+TorsoDecoDrawChanceDescr = "Chance d'ajouter un nouveau torse"
+
+ThighsDrawChance = "Chance des cuisses"
+ThighsDrawChanceDescr = "Chance d'ajouter des cuisses"
+
+ShinsDrawChance = "Shins Chance"
+ShinsDrawChanceDescr = "Chance d'ajouter des tibias"
+
+LimitRandomizationToOneDlc = "Limiter la randomisation à un DLC"
+LimitRandomizationToOneDlcDescr = "Si vous vérifiez, forcez la randomisation à utiliser le même package DLC / Mod pour chaque partie d'une tenue."
+
+UseCustomColorPalette = "Utilisez une palette de couleurs personnalisée"
+UseCustomColorPaletteDescr = "Si vous vérifiez, utilisez la palette de couleurs définie dans XCOM_unrestrictedCustomization. ini;Par défaut, la palette contient toutes les couleurs non flashy."
+
+;==================
+;=== Filter Box ===
+;==================
+
+;=== Armor types ===
+
+Armor = "Armure"
+Light = "Léger"
+Medium = "Moyen"
+Heavy = "Lourd"
+Spark = "Autre"
+
+;=== Tech Levels ===
+
+Tech = "Tech"
+Padded = "Matelassé"
+Plated = "Plaqué"
+Powered = "Alimenté"
+Alien = "Alien"
+
+;=== Styles ===
+
+Style = "Style"
+Civilian = "Co;;un"
+XCom = "Armure"
+Advent = "Rare"
+Other = "Vide"
+
+;=== Gender ===
+
+Gender = "Genre"
+Male = "Male"
+Female = "Femelle"
+MaleSuffix = "(M)"
+FemaleSuffix = "(F)"
+
+;=== MSG Box ===
+ConfirmationTitle = "ALERTE"
+DoNotAskAgain = "Ne me demandez plus jamais!"
+
+;=== Search ===
+strSearchTitle = "FILTRE/RECHERCHE"
+strSearchClear = "CLIQUEZ POUR MODIFIER LE FILTRE POUR"
+
+;=======================
+;=== Template Editor ===
+;=======================
+
+Edit = "MODIFIER"
+Rename = "RENOMMER"
+Hide/Delete = "Cacher/liste noire"
+
+;=======================
+;=== Appearance Menu ===
+;=======================
+
+CopyOutfit = "Tenue : copier"
+CopyOutfitDescr = "Copiez la tenue de ce personnage dans le presse-papiers."
+PasteOutfit = "Tenue : coller"
+PasteOutfitDescr = "Coller a précédemment copié la tenue sur ce personnage. Le visage / race / nom de ce personnage / etc. ne sera pas modifié."
+RandomizeOutfit = "Tenue : Aléatoire"
+RandomizeOutfitDescr = "(Annulée) randomiser la tenue de ce personnage;Le visage / race / nom de ce personnage / etc. ne sera pas modifié."
+ImportOutfit = "Tenue : importer d'équipe"
+ImportOutfitDescr = ""(Cancellable) Import an outfit from character pool. This character's face/race/name/etc. Volonté not be modified.
+PasteConfirmationText = "Remplacez l'apparence de la tenue de ce personnage par celle copiée précédemment ?"
+
+;=======================
+;=== Appearance Tool ===
+;=======================
+
+Outfit = "Tenue"
+ImportFromCharacterPool = "Charger du Groupe"
+UnavailableWithinCharacterPool = "INDICABLE DANS LA POOL DE CHARFAIRES"
+Copy = "Copier"
+Paste = "Coller"
+
+;====================
+;=== Generic Text ===
+;====================
+
+Preview = "Aperçu"
+Confirm = "Confirmer"
+Options = "Options"
+
+;=======================
+;=== MCM Option Menu ===
+;=======================
+
+ConfirmWholeAppearanceModification = "Confirmer la modification de l'apparence"
+ConfirmWholeAppearanceModificationDescr = "Demandez une confirmation avant de coller une apparence"
+
+ShowBlacklistedOnly = "Montrer la liste noire uniquement"
+ShowBlacklistedOnlyDescr = "S'il est vérifié, seules les pièces sur liste noire s'afficheront (afin que vous puissiez les supprimer de la liste noire à l'aide du bouton «Modifier»)"
+
+ShowToolPanel = "Afficher le panneau d'outils"
+ShowToolPanelDescr = "Afficher le panneau d'accès rapide en haut à droite contenant des boutons Copy / Coller / Random / Importer."
+
+GlobalAppearance = "Apparence Globale"
+GlobalAppearanceDescr = "S'il est vérifié, les soldats auront une seule apparence, copiée dans chaque nouvelle armure lors du premier équipement. L'apparence peut être modifiée et stockée après l'armure."
+
+ProgressiveUpdate = "Mise à jour progressive"
+ProgressiveUpdateDescr = "S'il est vérifié, le magasin d'apparence sera constamment mis à jour à l'apparence actuelle. Quelle que soit l'armure actuelle équipée."
+
+AlwaysUseFullBodyCam = "Toujours Vue Corps complet"
+AlwaysUseFullBodyCamDescr = "Si elle est vérifiée, l'apparence utilisera toujours la caméra du «cadavre complet», quelle que soit la partie du cadavre sélectionnée."
+
+OpenIntoSearchBar = "Liste des pièces ouverte dans le filtre de recherche de texte"
+OpenIntoSearchBarDescr = "Si elle est vérifiée, la liste des pièces s'ouvrira directement à la barre de recherche de filtre de texte"
+
+AutoSetFilters = "Filtres à cocher automatique"
+AutoSetFiltersDescr = "S'il est vérifié, les filtres tenteront de détecter automatiquement le type d'armure sur l'ouverture"
+
+FacePropsUseFilters = "Les accessoires de face utilisent les filtres UCR"
+FacePropsUseFiltersDescr = "En cas de vérification, les accessoires de face utiliseront les filtres UCR / UI. Cela a été rendu facultatif car certaines personnes ont signalé un comportement étrange pour les accessoires de visage en utilisant le nouveau système"

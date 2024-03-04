@@ -1,0 +1,29 @@
+[WOTC_GRIM_MARPAT X2BodyPartTemplate]
+DisplayName="Grim's Digital"
+// CALVITIX IGNORE TRANSLATION
+
+[WOTC_GrimStyleHat001_M X2BodyPartTemplate]
+DisplayName="Grim's Patrol Cap"
+
+[WOTC_GrimStyleHat001_F X2BodyPartTemplate]
+DisplayName="Grim's Patrol Cap"
+
+[WOTC_GrimStyleHelmetCM X2BodyPartTemplate]
+DisplayName="Grim's Force Recon Casque 1"
+
+[WOTC_GrimStyleHelmetCF X2BodyPartTemplate]
+DisplayName="Grim's Force Recon Casque 1"
+
+[WOTC_GrimStyleHelmetC4M X2BodyPartTemplate]
+DisplayName="Grim's Force Recon Casque 2"
+
+[WOTC_GrimStyleHelmetC4F X2BodyPartTemplate]
+DisplayName="Grim's Force Recon Casque 2"
+
+[WOTC_GrimStyleHelmetCamoC4M X2BodyPartTemplate]
+DisplayName="Grim's Force Recon Casque 3"
+
+[WOTC_GrimStyleHelmetCamoC4F X2BodyPartTemplate]
+DisplayName="Grim's Force Recon Casque 3"
+
+

@@ -1,0 +1,36 @@
+; === Upgrade info ===
+// CALVITIX IGNORE TRANSLATION
+
+[X2DownloadableContentInfo_ShadowOpsPerkPack]
+ModUpgradeLabel="Shadow Ops Class Pack beta v0.7"
+ModUpgradeSummary="Shadow Ops Class Pack has been updated to beta version 0.7. Important changes: <br/><br/><Bullet/> Les arbres de compétences de l'ingénieur de combat et de l'infanterie ont été remaniés, et l'arbre de compétences du chasseur a fait l'objet de changements moins importants. <br/><Bullet/> Tous les soldats convertis à partir de versions précédentes du mod bénéficient d'un respec gratuit. Rendez-vous à l'Armurerie pour l'utiliser.<br/><Bullet/> L'infanterie-Soutien dispose de deux nouvelles capacités axées sur l'utilisation des médikits.<br/><Bullet/> Cible mobile, Se Retrancher, Fracture, Rangement maîtrisé, Première Frappe et Nettoyage ont fait l'objet de modifications importantes.<br/><Bullet/> Quatre nouvelles capacités réservées à l'AWC sont disponibles dans l'AWC. Il se peut que vous deviez commencer une nouvelle partie pour qu'elles apparaissent. <br/><br/>Pour des notes de changement plus complètes, voir readme.txt."
+ModUpgradeAcceptLabel="Got it"
+
+[UIScreenListener_UIArmory_Promotion]
+LocFreeRespec="Respec. gratuite"
+RespecWarning="Vos soldats ont reçu des respec. gratuits en raison des changements apportés aux arbres de compétences des classes du Pack de classe Ops de l'ombre. Si vous faites monter en grade un soldat avant d'avoir utilisé son respec gratuit, vous perdrez ce respec gratuit de façon permanente."
+RespecWarningTitle="Free Respec Expiration"
+
+; === Engineer abilities ===
+
+[UIScreenListener_UIArmory]
+m_strKills="tués"
+m_strKillsTitle="tués de #1"
+m_strUnknown="Inconnu"
+
+[X2Ability_EngineerAbilitySet]
+CombatDrugsName="Drogues de combat"
+CombatDrugsDescription="Un stimulant à action rapide qui accorde des bonus à la Visée et à la Volonté."
+
+; === Hunter abilities ===
+
+[X2Ability_HunterAbilitySet]
+FadePenaltyText="This unit's concealment will be broken if it moves."
+SnapShotPenaltyText="This unit has an aim penalty for overwatching with a single action."
+BullseyePenaltyName="Sonnée"
+BullseyePenaltyText="Cette unité a des pénalités de -20 en Visée, Défense et Volonté."
+DisabledFriendlyName="Neutralisé"
+DisabledFriendlyDesc="Incapable d'utiliser la plupart des capacités."
+DisabledEffectAcquiredString="<XGParam:StrValue0/!UnitName/> est neutralisé(e)."
+DisabledEffectTickedString="<XGParam:StrValue0/!UnitName/> est toujours neutralisé(e)."
+DisabledEffectLostString="<XGParam:StrValue0/!UnitName/> n'est plus est neutralisé(e)."

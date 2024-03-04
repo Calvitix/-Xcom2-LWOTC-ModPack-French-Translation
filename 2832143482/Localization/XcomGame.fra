@@ -1,0 +1,17 @@
+[PR_Gunslinger X2SoldierClassTemplate]
++DisplayName="Flingueur"
+// CALVITIX IGNORE TRANSLATION
++ClassSummary="Les Flingueurs excellent à infliger des dégâts dévastateurs avec un seul tir, en tirant sur autant de cibles que possible dans un tour ou en aidant leurs coups d'alliés."
++LeftAbilityTreeTitle="Fonte brute"
++RightAbilityTreeTitle="Tir rapide"
+AbilityTreeTitles[0]="Fonte brute"
+AbilityTreeTitles[1]="Tir rapide"
+AbilityTreeTitles[2]="Ciblage"
+AbilityTreeTitles[3]="XCOM"
+
++RandomNickNames[0]="Oeil de faucon"
++RandomNickNames[1]="Gros fer"
++RandomNickNames[2]="Shérif"
++RandomNickNames[3]="Coup mortel"
++RandomNickNames[4]="Hors la loi"
++RandomNickNames[5]="Ruffy"

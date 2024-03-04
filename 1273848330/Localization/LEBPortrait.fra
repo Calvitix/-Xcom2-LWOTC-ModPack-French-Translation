@@ -1,0 +1,8 @@
+﻿[UIScreenlistenerMCM_LEBPortrait]
+strModTitle="Tirs à la tête configurables"
+// CALVITIX IGNORE TRANSLATION
+strPageTitle="Tirs à la tête configurables"
+strSettingsTitle="Réglages généraux"
+strDistance="Distance de la caméra"
+strFOV="Camera Fov"
+strButtonEdit="Modifier"

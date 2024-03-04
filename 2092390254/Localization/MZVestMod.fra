@@ -1,0 +1,13 @@
+[X2Effect_AutoMendArmour]
+DeShredMessage="+<Heal/> Blindage Réparé"
+
+[X2Effect_AutoMendShield]
+HealedMessage="+<Heal/> Bouclier Rechargé"
+
+[X2Item_WeaveVests]
+MaxShieldRegenLabel = "Recharge Max du Bouclier"
+ShieldRegenLabel = "Taux de Recharge"
+ShieldLabel = "Bouclier"
+
+MaxArmourRepairLabel = "Répar. Max"
+ArmourRepairLabel = "Taux de Répar."

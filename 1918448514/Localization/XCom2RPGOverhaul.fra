@@ -1,0 +1,16 @@
+
+[MZChemthrowerOffense X2UniversalSoldierClassInfo]
+ClassSpecializationTitle="Langue de Feu"
+ClassSpecializationSummary="Exhale fire and dustruction on the battlefield. Flametongues excel at the offensive use of chemthrowers."
+
+[MZChemthrowerSupport X2UniversalSoldierClassInfo]
+ClassSpecializationTitle="Médecin de la peste"
+ClassSpecializationSummary="The Plague Doctor utilizes a chemthrower to support their allies. They have aoe cleansing, healing and debuffs that limit enemy options."
+
+[MZChemthrowerSuppress X2UniversalSoldierClassInfo]
+ClassSpecializationTitle="Tyran"
+ClassSpecializationSummary="The Tyrant utilizes their chemthrower to control the battlefield with Vigilance, suppression, and a well-placed knockback."
+
+[MZChemthrowerCanister X2UniversalSoldierClassInfo]
+ClassSpecializationTitle="Alchemiste"
+ClassSpecializationSummary="Experts in the mixing of chemicals, Alchemists excel at using a Canister alongside their Chemthrower."

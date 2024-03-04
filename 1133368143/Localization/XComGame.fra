@@ -1,0 +1,8 @@
+[OverwatchAll X2AbilityTemplate]
+
+LocFriendlyName="Vigilance - Tous"
+LocHelpText="Place toutes les unités disponibles en vigilance."
+
+[OverwatchOthers X2AbilityTemplate]
+LocFriendlyName="Vigilance - Autres"
+LocHelpText="Place toutes les autres unités disponibles en vigilance."

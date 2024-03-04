@@ -1,0 +1,4 @@
+[ExampleOption SecondWaveOptionObject]
+Tooltip="Exemple d'infobulles SW"
+// CALVITIX IGNORE TRANSLATION
+Description="Exemple SW : Description"

@@ -1,0 +1,13 @@
+[Infirmary_GeneModdingChamber X2FacilityUpgradeTemplate]
+DisplayName="Chambre de modification génétique"
+// CALVITIX IGNORE TRANSLATION
+FacilityName="Infirmerie"
+Summary="Améliore l'infirmerie avec une chambre de modification génétique, qui peut être utilisée pour modifier de manière contraire des unités au niveau génétique."
+
+[GeneModdingChamberSoldierStaffSlot X2StaffSlotTemplate]
+EmptyText="OUVERT : SOLDAT REQUIS"
+BonusEmptyText="Commencer la modification génétique."
+BonusDefaultText="COURAGE"
+BonusText="% OPÉRATION DE COMPÉTENCE"
+FilledText="%UNITNAME subit une opération de modification génétique !"
+LockedText="VERROUILLÉ : ACHAT D'AMELIORATION"
