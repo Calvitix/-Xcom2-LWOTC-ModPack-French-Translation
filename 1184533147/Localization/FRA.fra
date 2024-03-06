@@ -75,21 +75,21 @@ FriendlyName="Cimeterre"
 FriendlyNamePlural="Cimeterres"
 BriefSummary="Cette lame est conçue pour infliger des effets toxiques. Elle fait un peu plus de dégâts que l'épée de base"
 TacticalText="Cette lame est conçue pour infliger des effets toxiques. Elle fait un peu plus de dégâts que l'épée de base"
-AbilityDescName="Cimeterre"
+AbilityDescName="cimeterre"
 
 [Scimitar_MG X2WeaponTemplate]
 FriendlyName="Cimeterre électrique"
 FriendlyNamePlural="Cimeterres électrique"
 BriefSummary="Cette version avancée augmente son efficacité avec la capacité d'étourdir aussi bien que d'empoisonner. Elle fait un peu plus de dégâts que la lame électrique"
 TacticalText="Cette version avancée augmente son efficacité avec la capacité d'étourdir aussi bien que d'empoisonner. Elle fait un peu plus de dégâts que la lame électrique"
-AbilityDescName="Cimeterre électrique"
+AbilityDescName="cimeterre électrique"
 
 [Scimitar_BM X2WeaponTemplate]
 FriendlyName="Cimeterre plasmique"
 FriendlyNamePlural="Cimeterres plasmique"
 BriefSummary="Cette version avancée augmente son efficacité avec la capacité d'étourdir aussi bien que d'empoisonner. Elle fait un peu plus de dégâts que la lame à fusion"
 TacticalText="Cette version avancée augmente son efficacité avec la capacité d'étourdir aussi bien que d'empoisonner. Elle fait un peu plus de dégâts que la lame à fusion"
-AbilityDescName="Cimeterre plasmique"
+AbilityDescName="cimeterre plasmique"
 
 [DeployableCelatidTurret X2AbilityTemplate]
 LocFriendlyName="Tourelle Célatide déployable"

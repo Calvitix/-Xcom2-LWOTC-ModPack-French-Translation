@@ -49,7 +49,7 @@ Summary="La vitesse et les capacités d'escalade d'une Chrysalis se sont déroulée
 
 [GM_MimeticSkin X2GeneModTemplate]
 DisplayName="Peau mimétique"
-Summary="En combinant des aspects du Spectre et du Nox Faceless, nous avons créé cette augmentation furtive de pointe pour la peau d'un soldat. Confère la capacité de changer le motif de la peau pour correspondre à le Couvert. Lorsqu'un soldat se déplace sur un Couvert élevée, il se cache. Ne fonctionne pas si des ennemis ont une ligne de vue au soldat. Malheureusement, la capacité de furtivité accorde par la peau mimétique a des effets secondaires mentaux involontaires tels qu'une paranoïa accrue, réduisant définitivement la Volonté de ce soldat de 10."
+Summary="En combinant des aspects du Spectre et du Nox Faceless, nous avons créé cette augmentation furtive de pointe pour la peau d'un soldat. Confère la capacité de changer le motif de la peau pour correspondre à le Couvert. Lorsqu'un soldat se déplace sur un couvert élevée, il se cache. Ne fonctionne pas si des ennemis ont une ligne de vue au soldat. Malheureusement, la capacité de furtivité accorde par la peau mimétique a des effets secondaires mentaux involontaires tels qu'une paranoïa accrue, réduisant définitivement la Volonté de ce soldat de 10."
 
 [MZ_Wiredreflexes X2GeneModTemplate]
 DisplayName="Booster synaptique"
@@ -101,7 +101,7 @@ Summary="Un implant de jambe basé sur le capitaine de soldat de l'assaut Advent,
 
 [GM_MZPocketShredder_MJ X2GeneModTemplate]
 DisplayName="Canon de démolition"
-Summary="Un implant de bras basé sur l'incroyable puissance de feu des CEM d'assaut Advent. Accorde au soldat la capacité de canon de démolition, ce qui inflige des dégâts faibles mais des dégâts de la déchiqueté et de l'environnement massifs qui peuvent être utilisés indépendamment de l'armure ou des armes équipées, une fois par mission."
+Summary="Un implant de bras basé sur l'incroyable puissance de feu des CEM Commando Advent. Accorde au soldat la capacité de canon de démolition, ce qui inflige des dégâts faibles mais des dégâts de la déchiqueté et de l'environnement massifs qui peuvent être utilisés indépendamment de l'armure ou des armes équipées, une fois par mission."
 
 [UIFacility_GeneModChamberSlot]
 m_strWarnFirstTimeGeneModDialogText="Félicitations, commandant ! Vous êtes sur le point de franchir la ligne des pratiques médicales contraires à l'éthique, connues sous le nom de MODding génétiques. Avant de passer sous le bistouri, il y a quelques règles à suivre :<ul><li><b>LES MODIFICATIONS GÉNÉTIQUES SONT PERMANENTES !</b></li><li>Vous pouvez annuler le projet à tout moment, mais les ressources qui ont été consacrées à ce projet Volonté seront gaspillées.</li><li>Some Gene mods require prerequisites.</li><li>Tous les Gene Mods ne peuvent pas être installés en même temps. Certains types sont incompatibles avec d'autres.</li><li>Certains Gene Mods réduisent la Volonté maximale du soldat.</li></ul>\n\nAmusez-vous bien à ouvrir la boîte de Pandore !"
