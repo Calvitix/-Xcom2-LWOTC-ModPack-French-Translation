@@ -125,7 +125,7 @@ BriefSummary="La tourelle Célatide MK3 fournit un appui feu additionnel à nos so
 TacticalText="<Bullet/> Déploie une tourelle Célatide MK3 d'XCOM à l'emplacement spécifié.\n<Bullet/> N'expire pas avant d'être détruite."
 
 [CelatidImmunities X2AbilityTemplate]
-LocFriendlyName="Immunités Célatide"
+LocFriendlyName="Immunités de Célatide"
 LocLongDescription="Immunisé contre le poison, le poison des Chrysalis, l'étourdissement, l'inconscience et la panique. Cependant, peut encore être désorienté, contrôlé par l'esprit, dominé et blessé par l'acide."
 LocHelpText="Immunités"
 LocFlyOverText="Immunisé"
