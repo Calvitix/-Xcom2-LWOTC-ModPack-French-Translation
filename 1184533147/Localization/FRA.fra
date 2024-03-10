@@ -29,10 +29,10 @@ CodeName="Poche de gaz"
 LongDescription="Le Célatide est un organisme simple, semblable aux premières formes de vie terrestres telles que les Echinodermes. Le poison et l'acide qu'il projette sur le champ de bataille sont en réalité ses propres organes, réadaptés pour servir d'armes. On pourrait penser que c'est un inconvénient, mais les Célatids ont, étonnamment, une capacité régénératrice qui n'est pas naturelle et peuvent survivre à une quantité surprenante de traumatisme. Le corps de la créature est rempli d'organes en surnombre et, autant que nous le sachions, ils traverse plusieurs étapes de développement et gagnent en complexité interne. Nous avons notamment détecté des «nodules psioniques» asymétriques. Voyant que le Célatide n'a aucune forme identifiable d'organe sensoriel naturel, nous croyons que la créature les utilise pour détecter des formes de vie hostiles. Enfin, nous avons le système antigravité que le Célatide utilise comme principale forme de locomotion. À l'origine, il était supposé être simplement une augmentation pour rendre la créature plus viable au combat, mais nous avons découvert des systèmes de communication similaires à ceux des CEMs d'ADVENT. En combinant ces informations avec la biologie primitive du Célatid, nous émettons l'hypothèse que ces créatures ne sont rien de plus que des drones avec une composante biologique significative. R. Tygan."
  
 [HybridAlienTurret X2TechTemplate]
-DisplayName="Technologie de tourelle alien hybride"
-Summary="Maintenant que nous comprenons leur origine et comment les Célatids agissent sur le terrain, nous pouvons travailler sur la production de nos propres versions de tourelles hybride grâce à la technologie de ces bio-drones."
+DisplayName="Technologie de tourelle alien hybride"
+Summary="Maintenant que nous comprenons leur origine et comment les Célatids agissent sur le terrain, nous pouvons travailler sur la production de nos propres versions de tourelles hybride grâce à la technologie de ces bio-drones."
 CodeName="Luciole"
-LongDescription="Nous semblons avoir sous-estimé la capacité de calcul des nodules cérébraux Célatid. Bien qu'il soit douteux que ces créatures soient vraiment douées, un nodule cérébral préservé peut surpasser n'importe quel ordinateur fabriqué au début du XXIe siècle. En raison des risques inhérents à l'utilisation de la technologie psionique autour du réseau d'ADVENT, nous avons décidé de reformuler entièrement les nodules cérébraux du Célatide et avons activement retardé leur potentiel psionique latent. Cela nous oblige à monter un équipement sensoriel sur le châssis de la tourelle, mais permet d'économiser sur les coûts élevés de l'électronique qui sont nécessaires pour produire un drone d'attaque autonome. En plus de repositionner la biologie de la créature, nous avons décidé d'utiliser les pièces mécaniques des cadavres de Célatide récupérés pour donner à l'unité son propre système anti-gravité. Jusqu'à présent, toutes les tourelles Célatide sont livrées en standard avec un armement conventionnel. R. Tygan."
+LongDescription="Nous semblons avoir sous-estimé la capacité de calcul des nodules cérébraux Célatid. Bien qu'il soit douteux que ces créatures soient vraiment douées, un nodule cérébral préservé peut surpasser n'importe quel ordinateur fabriqué au début du XXIe siècle. En raison des risques inhérents à l'utilisation de la technologie psionique autour du réseau d'ADVENT, nous avons décidé de reformuler entièrement les nodules cérébraux du Célatide et avons activement retardé leur potentiel psionique latent. Cela nous oblige à monter un équipement sensoriel sur le châssis de la tourelle, mais permet d'économiser sur les coûts élevés de l'électronique qui sont nécessaires pour produire un drone d'attaque autonome. En plus de repositionner la biologie de la créature, nous avons décidé d'utiliser les pièces mécaniques des cadavres de Célatide récupérés pour donner à l'unité son propre système anti-gravité. Jusqu'à présent, toutes les tourelles Célatide sont livrées en standard avec un armement conventionnel. R. Tygan."
 
 [HybridAlienSword X2TechTemplate]
 DisplayName="Technologie d'épée alien hybride"
@@ -93,36 +93,36 @@ AbilityDescName="cimeterre plasmique"
 
 [DeployableCelatidTurret X2AbilityTemplate]
 LocFriendlyName="Tourelle Célatide déployable"
-LocLongDescription="Déploie une tourelle Célatide d'XCOM à l'emplacement spécifié."
-LocHelpText="Déploie une tourelle Célatide d'XCOM à l'emplacement spécifié."
-LocFlyOverText="Déployer la tourelle Célatide"
+LocLongDescription="Déploie une tourelle Célatide d'XCOM à l'emplacement spécifié."
+LocHelpText="Déploie une tourelle Célatide d'XCOM à l'emplacement spécifié."
+LocFlyOverText="Déployer la tourelle Célatide"
 
 [DeployableCelatidTurretMk2 X2AbilityTemplate]
 LocFriendlyName="Tourelle Célatide MK2 déployable"
-LocLongDescription="Déploie une tourelle Célatide MK2 d'XCOM à l'emplacement spécifié."
-LocHelpText="Déploie une tourelle Célatide MK2 d'XCOM à l'emplacement spécifié."
-LocFlyOverText="Déployer la tourelle Célatide MK2"
+LocLongDescription="Déploie une tourelle Célatide MK2 d'XCOM à l'emplacement spécifié."
+LocHelpText="Déploie une tourelle Célatide MK2 d'XCOM à l'emplacement spécifié."
+LocFlyOverText="Déployer la tourelle Célatide MK2"
 
 [DeployableCelatidTurretMk3 X2AbilityTemplate]
 LocFriendlyName="Tourelle Célatide MK3 déployable"
-LocLongDescription="Déploie une tourelle Célatide MK3 d'XCOM à l'emplacement spécifié."
-LocHelpText="Déploie une tourelle Célatide MK3 d'XCOM à l'emplacement spécifié."
-LocFlyOverText="Déployer la tourelle Célatide MK2"
+LocLongDescription="Déploie une tourelle Célatide MK3 d'XCOM à l'emplacement spécifié."
+LocHelpText="Déploie une tourelle Célatide MK3 d'XCOM à l'emplacement spécifié."
+LocFlyOverText="Déployer la tourelle Célatide MK2"
 
 [DeployableCelatidTurret X2WeaponTemplate]
 FriendlyName="Tourelle Célatide déployable"
-BriefSummary="La tourelle Célatide fournit un appui feu additionnel à nos soldats. Elle est déployé comme une grenade, projetée à l'endroit où la tourelle apparaîtra."
-TacticalText="<Bullet/> Déploie une tourelle Célatide d'XCOM à l'emplacement spécifié.\n<Bullet/> N'expire pas avant d'être détruite."
+BriefSummary="La tourelle Célatide fournit un appui feu additionnel à nos soldats. Elle est déployé comme une grenade, projetée à l'endroit où la tourelle apparaîtra."
+TacticalText="<Bullet/> Déploie une tourelle Célatide d'XCOM à l'emplacement spécifié.\n<Bullet/> N'expire pas avant d'être détruite."
 
 [DeployableCelatidTurretMk2 X2WeaponTemplate]
 FriendlyName="Tourelle Célatide MK2 déployable"
-BriefSummary="La tourelle Célatide MK2 fournit un appui feu additionnel à nos soldats. Elle est déployé comme une grenade, projetée à l'endroit où la tourelle apparaîtra."
-TacticalText="<Bullet/> Déploie une tourelle Célatide MK2 d'XCOM à l'emplacement spécifié.\n<Bullet/> N'expire pas avant d'être détruite."
+BriefSummary="La tourelle Célatide MK2 fournit un appui feu additionnel à nos soldats. Elle est déployé comme une grenade, projetée à l'endroit où la tourelle apparaîtra."
+TacticalText="<Bullet/> Déploie une tourelle Célatide MK2 d'XCOM à l'emplacement spécifié.\n<Bullet/> N'expire pas avant d'être détruite."
 
 [DeployableCelatidTurretMk3 X2WeaponTemplate]
 FriendlyName="Tourelle Célatide MK3 déployable"
-BriefSummary="La tourelle Célatide MK3 fournit un appui feu additionnel à nos soldats. Elle est déployé comme une grenade, projetée à l'endroit où la tourelle apparaîtra."
-TacticalText="<Bullet/> Déploie une tourelle Célatide MK3 d'XCOM à l'emplacement spécifié.\n<Bullet/> N'expire pas avant d'être détruite."
+BriefSummary="La tourelle Célatide MK3 fournit un appui feu additionnel à nos soldats. Elle est déployé comme une grenade, projetée à l'endroit où la tourelle apparaîtra."
+TacticalText="<Bullet/> Déploie une tourelle Célatide MK3 d'XCOM à l'emplacement spécifié.\n<Bullet/> N'expire pas avant d'être détruite."
 
 [CelatidImmunities X2AbilityTemplate]
 LocFriendlyName="Immunités de Célatide"

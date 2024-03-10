@@ -17,9 +17,9 @@ LootTooltip="Donne an extra Utility slot."
 [TRArmorUpgrade_CeramicPlatingUpgradeBonus X2ArmorUpgradeTemplate]
 FriendlyName="Ceramic Plating Armour Mod"
 FriendlyNamePlural="Ceramic Plating Armour Mods"
-BriefSummary="Adds 2 Armour and 1 PV. Reduces Mobility, esquive and stealth."
+BriefSummary="Adds 2 Armour and 1 PV. Reduces Mobility, esquive and stealth."
 TinySummary="+Utility Bonus"
-LootTooltip="Adds 2 Armour and 1 PV. Reduces Mobility, esquive and stealth."
+LootTooltip="Adds 2 Armour and 1 PV. Reduces Mobility, esquive and stealth."
 
 [TRArmorUpgrade_GBandolierBonus X2ArmorUpgradeTemplate]
 FriendlyName="Grenade Bandolier Armour Mod"
@@ -31,9 +31,9 @@ LootTooltip="Provides an extra use of frag, alien, smoke, underbarrel, AP, molot
 [TRArmorUpgrade_AssaultOverlayBonus X2ArmorUpgradeTemplate]
 FriendlyName="Assault Gear Armour Mod"
 FriendlyNamePlural="Assault Gear Armour Mods"
-BriefSummary="Provides 4 ablative PV armour and 15% crit resistance. Provides an extra grenade flash for each one carried."
+BriefSummary="Provides 4 ablative PV armour and 15% crit resistance. Provides an extra grenade flash for each one carried."
 TinySummary="+Utility Bonus"
-LootTooltip="Provides 4 ablative PV armour and 15% crit resistance. Provides an extra grenade flash for each one carried."
+LootTooltip="Provides 4 ablative PV armour and 15% crit resistance. Provides an extra grenade flash for each one carried."
 
 [TRArmorUpgrade_MedicalOverlayBonus X2ArmorUpgradeTemplate]
 FriendlyName="Medical Gear Armour Mod"
@@ -66,9 +66,9 @@ LootTooltip="Donne extra uses of Hidden Blades when some are being carried."
 [TRArmorUpgrade_AlloyPlatingUpgradeBonus X2ArmorUpgradeTemplate]
 FriendlyName="Alloy Plating Armour Mod"
 FriendlyNamePlural="Alloy Plating Armour Mods"
-BriefSummary="Adds 2 Armour and 2 PV. Reduces Mobility, esquive and stealth."
+BriefSummary="Adds 2 Armour and 2 PV. Reduces Mobility, esquive and stealth."
 TinySummary="+Utility Bonus"
-LootTooltip="Adds 2 Armour and 2 PV. Reduces Mobility, esquive and stealth."
+LootTooltip="Adds 2 Armour and 2 PV. Reduces Mobility, esquive and stealth."
 
 [TRArmorUpgrade_WalkerServoOverdrive X2ArmorUpgradeTemplate]
 FriendlyName="Leg Assist Servos Armour Mod"

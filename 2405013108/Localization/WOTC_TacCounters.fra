@@ -42,8 +42,8 @@ locationScoutShowsTotal_Tip = "R&#233;glez-le sur true et vous obtiendrez le tot
 showRemainingInsteadOfTotal_Label = "Afficher le reste au lieu du total"
 showRemainingInsteadOfTotal_Tip = "Certaines personnes l'aiment de cette façon, d'autres l'autre. R&#233;glez-le sur false et vous obtiendrez le nombre total d'ennemis, r&#233;glez-le sur true et vous obtiendrez le nombre restant."
 
-includeTurrets_Label = "Inclure les tourelles"
-includeTurrets_Tip = "Comme les tourelles ne comptent pas dans le 'total tu&#233;' &#224; la fin de la mission, nous ne les incluons pas ici aussi par d&#233;faut. Si vous le souhaitez, vous pouvez activer leur comptage."
+includeTurrets_Label = "Inclure les tourelles"
+includeTurrets_Tip = "Comme les tourelles ne comptent pas dans le 'total tu&#233;' &#224; la fin de la mission, nous ne les incluons pas ici aussi par d&#233;faut. Si vous le souhaitez, vous pouvez activer leur comptage."
 
 ;=================================================================
 Group2_Label = "Paramètres de l'interface utilisateur"
