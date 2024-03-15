@@ -3,7 +3,7 @@ LocCombatDrugsEffect="Drogues de Combat"
 LocCombatDrugsEffectDescription="This smoke effect was created by a unit with Combat Drugs, and grants +<Ability:COMBATDRUGS_AIM/> aim and +<Ability:COMBATDRUGS_CRIT/> critical chance."
 
 LocBolsteredWallEffect="Mur à traverses"
-LocBolsteredWallEffectDescription="While Mur protecteur is in effect, gain +<Ability:BOLSTEREDWALL_DODGE_BONUS/> bonus Esquive."
+LocBolsteredWallEffectDescription="While Mur protecteur is in effect, gagne +<Ability:BOLSTEREDWALL_DODGE_BONUS/> bonus Esquive."
 
 LocFaultlessDefenseEffect="Défense sans faille"
 LocFaultlessDefenseEffectDescription="While Mur protecteur is active, you cannot be critically hit."
@@ -15,4 +15,4 @@ LocStayCoveredEffect="Rester à couvert"
 LocStayCoveredEffectDescription="Removes the Defense penalty from Mur protecteur."
 
 LocPerfectGuardEffect="Garde parfaite"
-LocPerfectGuardEffectDescription="While Mur protecteur is in effect, gain +<Ability:PERFECTGUARD_ARMOR_BONUS/> bonus Armor."
+LocPerfectGuardEffectDescription="While Mur protecteur is in effect, gagne +<Ability:PERFECTGUARD_ARMOR_BONUS/> bonus Armor."

@@ -1,6 +1,6 @@
-;  ////////////////////////////////////////////
-;  // A Harder War: The Ethereal Restoration //
-;  ////////////////////////////////////////////
+; ////////////////////////////////////////////
+; // A Harder War: The Ethereal Restoration //
+; ////////////////////////////////////////////
 
 [AHWElderKillBonus X2AbilityTemplate]
 -LocFriendlyName="Master Of The Gift"
@@ -40,9 +40,9 @@
 -LocHelpText="All Non-Reaction Shots from within the Ethereal's Vision Range that will normally miss will instead be intercepted and Reflected Back at the Attacker. Additionaly, the Ethereal has a 10% chance to intercept attacks that would hit and reflect them. Critical Hits Cannot be Intercepted and Reflected, and Reflected attacks have a flat 40% chance to hit regardless of cover."
 +LocHelpText="All non-reaction shots from within the Ethereal's vision range that misses will instead be intercepted and reflected at the attacker. Additionally, the Ethereal has a 10% chance to intercept attacks that hit and reflect them. However, critical hits cannot be intercepted and reflected and reflected attacks have a 40% chance to hit regardless of cover."
 
-;  ////////////////////////////////////////
-;  // The Ethereal Restoration: Extended //
-;  ////////////////////////////////////////
+; ////////////////////////////////////////
+; // The Ethereal Restoration: Extended //
+; ////////////////////////////////////////
 
 [EtherealAutopsy X2TechTemplate]
 -Summary="Autopsy the Carcass of an Ethereal."

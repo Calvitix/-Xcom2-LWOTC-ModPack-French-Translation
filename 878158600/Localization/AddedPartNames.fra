@@ -2,9 +2,9 @@
 // CALVITIX IGNORE TRANSLATION
 ; these are examples.
 ; every entry consists of a
-;     .*Template="TemplateName"
+; .*Template="TemplateName"
 ; and a
-;     .*Name="DisplayString"
+; .*Name="DisplayString"
 ; without semicolons of course
 
 ; * can be Torso, Arms, Legs
