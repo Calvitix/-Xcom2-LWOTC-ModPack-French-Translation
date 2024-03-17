@@ -24,6 +24,6 @@ Summary="This soldier receives +6/4/2 Mobilité when using Light/Medium/Heavy Arm
 
 [GM_IRI_LizardReflex X2GeneModTemplate]
 DisplayName="Réflexes de Vipère"
-Summary="Soldier gains +20 Dodge, and when Dodging enemy attacks, they Volonté move out of the way of the attack, completely avoid the damage. Triggers once per turn. Soldier suffers negligible penalties to combat performance in cold and hot environments."
+Summary="Soldier gains +20 Esquive, and when Dodging enemy attacks, they Volonté move out of the way of the attack, completely avoid the damage. Triggers once per turn. Soldier suffers negligible penalties to combat performance in cold and hot environments."
  
  

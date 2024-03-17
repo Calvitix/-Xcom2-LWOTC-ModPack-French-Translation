@@ -1,7 +1,49 @@
 # -Xcom2-LWOTC-ModPack-French-Translation
-French Translation File of a LWOTC Modpack
+French Translation Files of a LWOTC Modpack created by OneStrongbow (https://www.twitch.tv/onestrongbow) in feb. 2024.
 
-List of mods (extract from AML)
+all the credits are for the differents modders, I only provide the translation of the *.int files into the *.fra (files for french translation)
+
+
+
+Fichiers de traductions pour les mods du Modpack créé par OneStrongbow en février 2024,
+
+A télécharger sous format zip, et à décompresser dans le répertoire du Workshop Xcom2 
+([...]\Steam\steamapps\workshop\content\268500)
+
+La traduction a été générée en grande partie via googletrad (il y a environ 60 000 lignes), puis relue progressivement en jeu, afin de détecter et de corriger les éventuels erreurs de traduction, approximations,...)
+
+N'hésitez pas à me contacter si vous trouvez des erreurs ou des éléments à modifier.
+
+La Traduction étant toujours quelque chose de subjectif, J'ai fait quelques choix d'interprétation pour la traduction de certains éléments : 
+
+Pour les classes : 
+Hitman => Tueur à gages
+Scrapper => Bagarreur
+Juggernaut => Mastodonte
+Heavy => Soldat Lourd
+Arsonist => Incendiaire
+Crasher => Cascadeur
+Gunslinger => Flingueur
+StormRider => Cavalier 'Tempête'
+StormTrooper => Commando 'Tempête'
+BountyHunter => Chasseur de primes
+Hijacker => Pirate informatique
+Recon => éclaireur
+
+SHIV => V.I.S.L. (Véhicule d'Infanterie Super Lourd)
+
+Bio division => Division Nox
+Frost Legion => Légion Givre
+Bitterfrots => CryoGel
+Pathfinder => Pisteur
+PathfinderCaptain => Chasseur-Traqueur
+Muton => Goliath
+
+Advanced [Soldier] => [Soldat] Vétéran
+
+
+
+Liste des mods (extract from AML)
 
 Unsorted (348):
 	[WOTC] Corrosive Rounds                                                              	WOTC_CorrosiveRounds                        	https://steamcommunity.com/sharedfiles/filedetails/?id=1371440275 	gameplay;item;Ammo;war of the chosen

@@ -3,7 +3,7 @@
 strCharacterName="Larve Célatide"
 
 [CelatidPupa X2CharacterTemplate]
-strCharacterName="Chrysalis Célatide"
+strCharacterName="Chrysalide Célatide"
 
 [CelatidAdult X2CharacterTemplate]
 strCharacterName="Célatide Adulte"
