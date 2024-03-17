@@ -64,31 +64,58 @@ Liste des mods (extract from AML)
 
 Unsorted (348):
 	[WOTC] Corrosive Rounds                                                              	WOTC_CorrosiveRounds                        	https://steamcommunity.com/sharedfiles/filedetails/?id=1371440275 	gameplay;item;Ammo;war of the chosen
+ 
 	[WOTC] Shiv Mod                                                                      	firebornshiv                                	https://steamcommunity.com/sharedfiles/filedetails/?id=1527642618 	Robot;class;SHIV;S.H.I.V;Tiny Tank;War of the Chosen;Soldier Class;Machines
+ 
 	Build-A-Dark-Event WOTC                                                              	AbilityDarkEvents                           	https://steamcommunity.com/sharedfiles/filedetails/?id=2679823280 	
+ 
 	[WOTC] Stukov's War Dark Events                                                      	StukovWarDarkEvents                         	https://steamcommunity.com/sharedfiles/filedetails/?id=2729653244 	
+ 
 	Hijacker Class For LWOTC                                                             	HijackerClassLWOTC                          	https://steamcommunity.com/sharedfiles/filedetails/?id=2945843998 	
+ 
 	[WoTC]ADVENT Sniper                                                                  	AdventSniper_WoTC                           	https://steamcommunity.com/sharedfiles/filedetails/?id=1126501968 	Alien;gameplay;WotC
+ 
 	[WoTC]ADVENT Duelist                                                                 	AdventDuelist_WoTC                          	https://steamcommunity.com/sharedfiles/filedetails/?id=1139726548 	Alien;gameplay;WotC
+ 
 	SPARK Launchers Redux                                                                	SPARKLaunchersRedux                         	https://steamcommunity.com/sharedfiles/filedetails/?id=1161324428 	Gameplay;War of the Chosen;Danger Close
+ 
 	[WOTC] Celatid Alien                                                                 	CelatidAlien                                	https://steamcommunity.com/sharedfiles/filedetails/?id=1184533147 	Alien;gameplay;creativexenos;celatid;war of the chosen
-	[WoTC] Pathfinders                                                                   	WoTCPathfinders                             	https://steamcommunity.com/sharedfiles/filedetails/?id=1229048071 	
+ 
+	[WoTC] Pathfinders                                                                   	WoTCPathfinders                             	https://steamcommunity.com/sharedfiles/filedetails/?id=1229048071 
+ 
 	[WOTC] Dual Wielded Pistols 2.0                                                      	DualWieldedPistols                          	https://steamcommunity.com/sharedfiles/filedetails/?id=1494099360 	War of the Chosen;Gameplay;dual pistols
+ 
 	[WOTC] Iridar's Akimbo Class                                                         	AkimboClass                                 	https://steamcommunity.com/sharedfiles/filedetails/?id=1494158555 	Soldier Class;War of the Chosen;WotC;Dual Wield Pistols;Akimbo;Gun Fu
+ 
 	[WOTC] Shadow Ops Perk Pack                                                          	ShadowOpsPerkPack                           	https://steamcommunity.com/sharedfiles/filedetails/?id=1519841231 	Soldier Class;Gameplay;War of the Chosen
+ 
 	[WOTC] Open Class Weapon Restrictions                                                	WOTCOpenWeaponRestrictions                  	https://steamcommunity.com/sharedfiles/filedetails/?id=1533060800 	Gameplay;war of the chosen;ocwr
+ 
 	[WOTC] Extended Perk Pack                                                            	WOTC_ExtendedPerkPack                       	https://steamcommunity.com/sharedfiles/filedetails/?id=1546482849 	Soldier Class;Gameplay;War of the Chosen
+ 
 	Mitzruti's Perk Pack                                                                 	MitzrutiPerkPack                            	https://steamcommunity.com/sharedfiles/filedetails/?id=1561030099 	war of the chosen;perks;Gene Mod
+ 
 	[WOTC] Bio Division 2.0                                                              	BioDivision                                 	https://steamcommunity.com/sharedfiles/filedetails/?id=1731235406 	Alien;gameplay;creativexenos;war of the chosen;bio division 2.0
+ 
 	[WOTC] First Aid by Iridar                                                           	WOTCFirstAid                                	https://steamcommunity.com/sharedfiles/filedetails/?id=1733477929 	Gameplay;War of the Chosen
+ 
 	[WOTC] Supercharge and Singe Abilities                                               	SlagAndMelta                                	https://steamcommunity.com/sharedfiles/filedetails/?id=1745325917 	gameplay;war of the chosen
+ 
 	Phantom Evac                                                                         	PhantomEvac                                 	https://steamcommunity.com/sharedfiles/filedetails/?id=1748331160 	Gameplay;War of the Chosen;phantom doctrine;maybe I'll do brainwashing some day
+ 
 	Additional Ammo Types                                                                	MZAmmoMod                                   	https://steamcommunity.com/sharedfiles/filedetails/?id=1757248681 	item;war of the chosen
+ 
 	[WOTC] Rocket Launchers 2.0                                                          	WOTCRocketLaunchers                         	https://steamcommunity.com/sharedfiles/filedetails/?id=1775963384 	War of the Chosen;Weapon
+ 
 	[WOTC] Configurable Immunities                                                       	ConfigurableImmunities                      	https://steamcommunity.com/sharedfiles/filedetails/?id=1779260037 	gameplay;war of the chosen;Config
+ 
 	[WOTC] Choose Your Aliens                                                            	ChooseYourAliens                            	https://steamcommunity.com/sharedfiles/filedetails/?id=1782917748 	gameplay;alien;war of the chosen;Config
+ 
+ 
 	[WOTC] Ability Editor                                                                	AbilityEditor                               	https://steamcommunity.com/sharedfiles/filedetails/?id=1789085465 	war of the chosen;gameplay;Config;ability
+ 
 	[WOTC] Repurpose Abilities                                                           	RepurposeAbilities                          	https://steamcommunity.com/sharedfiles/filedetails/?id=1792964849 	gameplay;war of the chosen;Config
+ 
 	[WotC] Enemy Reskinner                                                               	EnemyReskinnerRedux                         	https://steamcommunity.com/sharedfiles/filedetails/?id=1805997042 	
 	[WotC] Gene Mods                                                                     	WotC_Gameplay_GeneModding                   	https://steamcommunity.com/sharedfiles/filedetails/?id=1877861493 	gameplay;war of the chosen;Gene Mod;EW;>remove PCS
 	Bitterfrost Protocol                                                                 	MZFrostRounds                               	https://steamcommunity.com/sharedfiles/filedetails/?id=1891339003 	item;weapon;war of the chosen;Gene Mod;ruler;bitterfrost;freeze
