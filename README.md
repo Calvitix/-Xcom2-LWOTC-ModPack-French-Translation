@@ -63,6 +63,7 @@ Advanced [Soldier] => [Soldat] Vétéran   (--avancé)
 Liste des mods (extract from AML)
 
 Unsorted (348):
+
 	[WOTC] Corrosive Rounds                                                              	WOTC_CorrosiveRounds                        	https://steamcommunity.com/sharedfiles/filedetails/?id=1371440275 	gameplay;item;Ammo;war of the chosen
  
 	[WOTC] Shiv Mod                                                                      	firebornshiv                                	https://steamcommunity.com/sharedfiles/filedetails/?id=1527642618 	Robot;class;SHIV;S.H.I.V;Tiny Tank;War of the Chosen;Soldier Class;Machines
@@ -310,143 +311,273 @@ Unsorted (348):
 	[WOTC] Improved Weapon Upgrade UI                                                    	WOTC_RustyWeaponUpgradeUI                   	https://steamcommunity.com/sharedfiles/filedetails/?id=2042829719 	UI;Item;Weapon;War of the Chosen;Upgrades;Attachments;PexM;Loot Mods
 	[WOTC] Loot Post Mover                                                               	WOTCLootPostMover                           	https://steamcommunity.com/sharedfiles/filedetails/?id=2043070900 	UI;Gameplay;War of the Chosen
 	WOTC Idle Suppression LITE                                                           	IdleSuppressionLite                         	https://steamcommunity.com/sharedfiles/filedetails/?id=2077547986 	
-	Vindictus Female Hairstyles Re:DUX [WOTC]                                            	WotC_Vindictus_FemaleHairstyles_Redux       	https://steamcommunity.com/sharedfiles/filedetails/?id=2187978087 	War of the Chosen;Soldier Customization;female;NEXON;devCAT;Hairstyles;vindictus;Anime Hairs;Realistic Hairs;Re:Duxification;Fiona;Bel;Eira (aka Miul);Delia;Arisha;Miri;Vella;Lynn;Evie;Kexx and Astery Approved;Seriously This Should've Been Updated a LONG Time Ago;Aero STILL Sucks At Modding Lol
+	Vindictus Female Hairstyles Re:DUX [WOTC]                                            	WotC_Vindictus_FemaleHairstyles_Redux       	https://steamcommunity.com/sharedfiles/filedetails/?id=2187978087 	War of the Chosen;Soldier Customization;female;NEXON;devCAT;Hairstyles;vindictus;Anime Hairs;Realistic Hairs;Re:Duxification;Fiona;Bel;Eira (aka Miul);Delia;Arisha;Miri;Vella;Lynn;Evie;Kexx and Astery Approved;Seriously This Should've Been Updated a LONG Time Ago;Aero STILL 
+ 
+ Sucks At Modding Lol
 	[WOTC] XSkin by Iridar                                                               	WOTCXSkin                                   	https://steamcommunity.com/sharedfiles/filedetails/?id=2337161588 	Soldier Customization;Weapon;War of the Chosen
+ 
 	[WOTC] YAF1 Autopsy Required Extension                                               	YetAnotherF1_AutopsyRequired                	https://steamcommunity.com/sharedfiles/filedetails/?id=2377251739 	UI;Gameplay;War of the Chosen
+ 
 	[WOTC] Energy Capes and Porcelin Doll                                                	Wotc_Energy_Accessory_CAPE                  	https://steamcommunity.com/sharedfiles/filedetails/?id=2393853259 	Soldier Customization;Fastrean
+ 
 	[WOTC] Cosmetic ADVENT Armor (v1.1.2)                                                	CosmeticAdventArmorPack                     	https://steamcommunity.com/sharedfiles/filedetails/?id=2406160153 	Soldier Customization;advent;Armor;War of the Chosen;WotC;firaxis;xcom;mor balaten;toucan safari;eat pizza cool;rough blubber
+ 
 	[WOTC] Coloured PCS Icons                                                            	WOTC_RustyPCSIcons                          	https://steamcommunity.com/sharedfiles/filedetails/?id=2425682362 	UI;Item;War of the Chosen
+ 
 	[WOTC] Iridar's Cosmetic Rank Replacer                                               	WOTCIridarOfficersRanks                     	https://steamcommunity.com/sharedfiles/filedetails/?id=2550664377 	Soldier Customization;UI;War of the Chosen
+ 
 	[WOTC] Chimera Squad Shield Ghost Templates (v1.01)                                  	ChimeraSquadShieldTemplates                 	https://steamcommunity.com/sharedfiles/filedetails/?id=2551019030 	Soldier Customization;War of the Chosen;WotC;Shield;chimera squad;firaxis
+ 
 	[WOTC] Assault Trooper Cosmetics                                                     	ClausAssaultTroopers                        	https://steamcommunity.com/sharedfiles/filedetails/?id=2571444584 	Soldier Customization;advent;Armor;War of the Chosen;WotC;claus;Assault Trooper
+ 
 	[WOTC] Skirmisher Cloaks Reloaded (v1.01)                                            	SkirmCloaks                                 	https://steamcommunity.com/sharedfiles/filedetails/?id=2577030999 	Soldier Customization;War of the Chosen;WotC;claus;cloak;Cape;torso deco;thighs
+ 
 	WOTC Casual Pose Pack                                                                	WOTC_Kexx_Pose_Pack                         	https://steamcommunity.com/sharedfiles/filedetails/?id=2589637478 	Soldier Customization;casual;Photobooth;Pose Pack Series
+ 
 	WOTC Calendar Pose Pack                                                              	WOTC_Kexx_Pose_Pack_Calendar                	https://steamcommunity.com/sharedfiles/filedetails/?id=2589645640 	Soldier Customization;Photobooth;Pose Pack Series;Calendar
+ 
 	[WOTC] Modular ADVENT Cosmetics                                                      	ModularADVENTCosmetics                      	https://steamcommunity.com/sharedfiles/filedetails/?id=2594949608 	Soldier Customization;War of the Chosen
+ 
 	[WOTC] Iridar's Appearance Manager                                                   	WOTCIridarAppearanceManager                 	https://steamcommunity.com/sharedfiles/filedetails/?id=2664422411 	Soldier Customization;UI;War of the Chosen
+ 
 	WOTC Female Clothing Pack 2.0                                                        	WOTC_FCP_2                                  	https://steamcommunity.com/sharedfiles/filedetails/?id=2688627224 	Soldier Customization;cosmetics;war of the chosen;Fashion before Comfort
+ 
 	[WOTC] Capnbubs Accessories 2022                                                     	CapnCrunchAccessories                       	https://steamcommunity.com/sharedfiles/filedetails/?id=2700125342 	Soldier Customization;War of the Chosen;Helmet;hat;cooked;capnbubs;accessories
+ 
 	[WOTC] XCOM 2: Female Operators Outfit Pack                                          	WOTC_XCOM_FemaleOperators_Outfits_P1        	https://steamcommunity.com/sharedfiles/filedetails/?id=2776206724 	Soldier Customization;War of the Chosen
+ 
 	Target Destructibles Last                                                            	TargetDestructiblesLast                     	https://steamcommunity.com/sharedfiles/filedetails/?id=2783238650 	UI;Gameplay;War of the Chosen
+ 
 	Custom Face Paints                                                                   	ReplikantsCustomFacePaints                  	https://steamcommunity.com/sharedfiles/filedetails/?id=619525059 	
+ 
 	Ink And Paint                                                                        	InkAndPaint                                 	https://steamcommunity.com/sharedfiles/filedetails/?id=620051852 	
+ 
 	MEC Voice Pack                                                                       	MECVoicePack                                	https://steamcommunity.com/sharedfiles/filedetails/?id=625580984 	
+ 
 	Annette Voice Pack (French Accent)                                                   	AnnetteVoicePack                            	https://steamcommunity.com/sharedfiles/filedetails/?id=628333245 	
+ 
 	Long War Voices                                                                      	LongWarVoicesport                           	https://steamcommunity.com/sharedfiles/filedetails/?id=634813287 	
+ 
 	Anarchys Children Extra Options                                                      	AnarchysChildrenExtraOptions                	https://steamcommunity.com/sharedfiles/filedetails/?id=651406954 	Soldier Customization
+ 
 	Add Part Names                                                                       	AddedPartNames                              	https://steamcommunity.com/sharedfiles/filedetails/?id=878158600 	UI;Soldier Customization;no idea why no one has done this;does nothing on its own;rtfm
+ 
 	One Million Colours                                                                  	OneMillionColours                           	https://steamcommunity.com/sharedfiles/filedetails/?id=1091135816 	Soldier Customization
+ 
 	One Million Colours Plugin For WOTC                                                  	OneMillionColoursPluginForWOTC              	https://steamcommunity.com/sharedfiles/filedetails/?id=1133948141 	modfix
+ 
 	One Million Spark Colours                                                            	OneMillionSparkColours                      	https://steamcommunity.com/sharedfiles/filedetails/?id=1134598754 	UI;modfix
+ 
 	[WOTC] Raiders and Resistance Strategic Spawning                                     	RaidersStrategicSpawning                    	https://steamcommunity.com/sharedfiles/filedetails/?id=2139432337 	gameplay;war of the chosen;Raiders
+ 
 	WotC Mod Everything Reloaded                                                         	WotCModEverythingReloaded                   	https://steamcommunity.com/sharedfiles/filedetails/?id=1127491931 	UI;Item;Gameplay
+ 
 	[WOTC] Holographic Scanning                                                          	WOTC_NoRedUnitScans                         	https://steamcommunity.com/sharedfiles/filedetails/?id=2234141519 	UI;War of the Chosen
+ 
 	[WOTC] Barracks Status Display                                                       	WOTC_CI_ResizeHangarStatus                  	https://steamcommunity.com/sharedfiles/filedetails/?id=2540649820 	Facility;UI;War of the Chosen;Covert Infiltration;Strategy Overhaul
+ 
 	[WOTC] Less Overwatch Lock Ups!                                                      	OverwatchLockupFix                          	https://steamcommunity.com/sharedfiles/filedetails/?id=1276342555 	gameplay;bugfix
+ 
 	[WOTC] Controllable Put Down Unit                                                    	ControllablePuttingDownUnits                	https://steamcommunity.com/sharedfiles/filedetails/?id=2796040662 	UI;Gameplay;War of the Chosen
+ 
 	Update Carried Units                                                                 	UpdateCarryUnit                             	https://steamcommunity.com/sharedfiles/filedetails/?id=698881748 	
+ 
 	[WOTC+TLP] Remove Rizzo                                                              	RemoveRizzo                                 	https://steamcommunity.com/sharedfiles/filedetails/?id=1835126200 	Soldier Customization;voice;war of the chosen
+ 
 	Negative Mobility Fix                                                                	NegativeMobilityFix                         	https://steamcommunity.com/sharedfiles/filedetails/?id=2806444314 	Gameplay;War of the Chosen
+ 
 	Ability Prerequisite Get-Arounder                                                    	AbilityPrerequisiteGetArounder              	https://steamcommunity.com/sharedfiles/filedetails/?id=2815632934 	Gameplay;War of the Chosen
+ 
 	[WotC] EYExtender                                                                    	WotC_CharCust_ExpandedCosmetics_Head        	https://steamcommunity.com/sharedfiles/filedetails/?id=2818710879 	Soldier Customization;war of the chosen;eye;eyecatching;glowy;augmented;??
+ 
 	[WOTC] Spark Pose Pack                                                               	SparkPosePack                               	https://steamcommunity.com/sharedfiles/filedetails/?id=1921859780 	Soldier Customization;War of the Chosen
+ 
 	[WOTC] Tactical Unit Descriptions                                                    	AdditionalUnitInfoWOTC                      	https://steamcommunity.com/sharedfiles/filedetails/?id=2819858751 	UI;Gameplay;War of the Chosen
+ 
 	Map Expansion UPK                                                                    	MapExpansionUPk                             	https://steamcommunity.com/sharedfiles/filedetails/?id=1637404109 	map
+ 
 	Map [Cliffs]                                                                         	Map[Cliffs]                                 	https://steamcommunity.com/sharedfiles/filedetails/?id=2336094793 	map
+ 
 	Map [Forest]                                                                         	Map[Forest]                                 	https://steamcommunity.com/sharedfiles/filedetails/?id=2336297976 	Map
+ 
 	Map [Lost Neighborhood]                                                              	Map[LostNeighborhood]                       	https://steamcommunity.com/sharedfiles/filedetails/?id=2347283240 	Map
+ 
 	Map [Dam]                                                                            	Map[Dam]                                    	https://steamcommunity.com/sharedfiles/filedetails/?id=2347317251 	Map
+ 
 	[WOTC] Eclipsezr Parcels                                                             	[WOTC]EclipsezrParcels                      	https://steamcommunity.com/sharedfiles/filedetails/?id=2638942556 	Map
+ 
 	Map [Alien Base]                                                                     	Map[AlienBase]                              	https://steamcommunity.com/sharedfiles/filedetails/?id=2811106895 	map
+ 
 	Map [Cave]                                                                           	Map[Cave]                                   	https://steamcommunity.com/sharedfiles/filedetails/?id=2814586773 	Map
+ 
 	Map [Advent Base]                                                                    	Map[AdventBase]                             	https://steamcommunity.com/sharedfiles/filedetails/?id=2814928985 	Map
+ 
 	[WOTC] Overwatch Speed Up                                                            	OverwatchSpeedUp[WOTC]                      	https://steamcommunity.com/sharedfiles/filedetails/?id=2818163414 	UI;War of the Chosen
+ 
 	Map [Overgrown City]                                                                 	Map[OvergrownCity]                          	https://steamcommunity.com/sharedfiles/filedetails/?id=2822000448 	Map
+ 
 	Map [Biomes]                                                                         	Map[Biomes]                                 	https://steamcommunity.com/sharedfiles/filedetails/?id=2822709966 	Map
+ 
 	Alien Base Counts As Subway                                                          	AlienBaseCountsAsSubway                     	https://steamcommunity.com/sharedfiles/filedetails/?id=2814726224 	Map;War of the Chosen
+ 
 	All Armour Avenger                                                                   	VIPunderlayShenanigans                      	https://steamcommunity.com/sharedfiles/filedetails/?id=2381344558 	Soldier Customization;War of the Chosen;Avenger
+ 
 	[WOTC] UFOpedia & Bestiary                                                           	WOTC_UFOPedia                               	https://steamcommunity.com/sharedfiles/filedetails/?id=2819129273 	Facility;Item;Gameplay;War of the Chosen;Bestiary;Archives;Enemy Viewer
+ 
 	[WOTC] Visual Attachments for Pistols (Supports Coil, Laser and Primary Secondaries) 	WOTC_PIstol_Attachments                     	https://steamcommunity.com/sharedfiles/filedetails/?id=2060073001 	Weapon;War of the Chosen
+ 
 	[WOTC] Core Collection Meta Mod                                                      	WOTCCoreCollection                          	https://steamcommunity.com/sharedfiles/filedetails/?id=2166295671 	War of the Chosen
+ 
 	[WOTC] Iridar's Loadout Manager                                                      	WOTCIridarManualLoadoutManager              	https://steamcommunity.com/sharedfiles/filedetails/?id=2810261755 	UI;War of the Chosen
+ 
 	[WOTC] Black Market Expanded Information                                             	BMShowUpgrades                              	https://steamcommunity.com/sharedfiles/filedetails/?id=2834554740 	UI;Gameplay
+ 
 	[WOTC] Detailed Soldier Lists Redux                                                  	WOTC_DSL_Rusty                              	https://steamcommunity.com/sharedfiles/filedetails/?id=2832773856 	War of the Chosen;UI;Gameplay;soldier;rpgo;Lwotc;Lists;CI;DSL
+ 
 	[WOTC] Visible Utility Items by Iridar                                               	WOTCIridarVisibleUtilityWeapons             	https://steamcommunity.com/sharedfiles/filedetails/?id=2849922249 	War of the Chosen;Item;Weapon
+ 
 	[WOTC] Dude, Where's My Loot?                                                        	DudeWheresMyLoot                            	https://steamcommunity.com/sharedfiles/filedetails/?id=2878818143 	War of the Chosen;Gameplay
+ 
 	[WOTC] Mission Launch Auto Save                                                      	WOTCAutoSaveOnLaunchMission                 	https://steamcommunity.com/sharedfiles/filedetails/?id=2847584316 	War of the Chosen
+ 
 	[WOTC] Compact Perks For Armory                                                      	WOTC_CompactPerksInArmory                   	https://steamcommunity.com/sharedfiles/filedetails/?id=2871524968 	War of the Chosen;UI;abilities;icons
+ 
 	Reload My Pistols                                                                    	ReloadMyPistols                             	https://steamcommunity.com/sharedfiles/filedetails/?id=2875191235 	
+ 
 	Surplus Class Icons Pack                                                             	SurplusClassIconsPack                       	https://steamcommunity.com/sharedfiles/filedetails/?id=2893087536 	UI;Resource;icon
+ 
 	[WOTC] WSR Shotgun Animation : Addon                                                 	WSR_NewShotgunAnimation_Addon               	https://steamcommunity.com/sharedfiles/filedetails/?id=2895282660 	War of the Chosen;Item;Weapon;WSR;Shotgun animation
+ 
 	Big Things Don't Get Hugs                                                            	BigThingsDontGetHugs                        	https://steamcommunity.com/sharedfiles/filedetails/?id=2876755199 	War of the Chosen;Gameplay
+ 
 	[WOTC] Voice Patcher                                                                 	SoundCuePatchWOTC                           	https://steamcommunity.com/sharedfiles/filedetails/?id=2798541285 	Voice;War of the Chosen;Ability
+ 
 	XCOM Legacy Voices Redux                                                             	XCOMLegacyVoicesRedux                       	https://steamcommunity.com/sharedfiles/filedetails/?id=2812976911 	voice;Soldier Customization;Zhang;Annette;Van Doorn
+ 
 	[WOTC] Doctor Mandarbs Map-Pack - Fixed Network Towers                               	MandarbsMapsFixedTowers                     	https://steamcommunity.com/sharedfiles/filedetails/?id=2913180727 	
+ 
 	No Full Cover Grabs                                                                  	NoFullCoverGrabs                            	https://steamcommunity.com/sharedfiles/filedetails/?id=880396912 	gameplay;Viper No Viping
+ 
 	[WOTC] Execution                                                                     	Execution                                   	https://steamcommunity.com/sharedfiles/filedetails/?id=1519721906 	gameplay;war of the chosen
+ 
 	WOTC Save Games Delete All Option                                                    	WOTCSaveGamesDeleteAllOption                	https://steamcommunity.com/sharedfiles/filedetails/?id=1124242299 	
+ 
 	[WOTC] Enemy Preview - Extended                                                      	WOTC_EnemyPreview_Extended                  	https://steamcommunity.com/sharedfiles/filedetails/?id=2924342363 	
+ 
 	Remove Missing Mods for WotC                                                         	WOTC_RemoveMissingMods                      	https://steamcommunity.com/sharedfiles/filedetails/?id=1127050498 	
+ 
 	Immersive Strategy Layer                                                             	ImmersiveStrategyLayer                      	https://steamcommunity.com/sharedfiles/filedetails/?id=1544760525 	
+ 
 	Smooth Scrolling                                                                     	SmoothScrolling                             	https://steamcommunity.com/sharedfiles/filedetails/?id=957580056 	
+ 
 	Chosen Armor                                                                         	ChosenArmor                                 	https://steamcommunity.com/sharedfiles/filedetails/?id=2210735728 	
+ 
 	Visibility Condition Bandaid For Rapid Fire And Friends                              	VisCondForRapidFire                         	https://steamcommunity.com/sharedfiles/filedetails/?id=2847640303 	
+ 
 	Skirmisher Abilities For Soldiers Animation Patch                                    	SkirmisherAbilitiesForSoldiers              	https://steamcommunity.com/sharedfiles/filedetails/?id=2820447189 	
+ 
 	Zoomier Zombie Animations                                                            	ZoomierZombieAnimations                     	https://steamcommunity.com/sharedfiles/filedetails/?id=2834929289 	
+ 
 	[WOTC] Claus Hero Cosmetics Compendium                                               	ClausCompendium                             	https://steamcommunity.com/sharedfiles/filedetails/?id=2936264852 	
+ 
 	Pre-Scamper Ability Stopper                                                          	EverVigilantBugfixesConfigAddOn             	https://steamcommunity.com/sharedfiles/filedetails/?id=2943434088 	
+ 
 	[WOTC] Show Repeatable Tech Count                                                    	RepeatableTechCount                         	https://steamcommunity.com/sharedfiles/filedetails/?id=2946054775 	
+ 
 	[WOTC] Unrestricted Customization Redux                                              	UnrestrictedCustomization                   	https://steamcommunity.com/sharedfiles/filedetails/?id=2438621356 	
+ 
 	[WOTC] Select Soldier Icons Redux                                                    	SoldierSelectIcons_WOTC                     	https://steamcommunity.com/sharedfiles/filedetails/?id=2960880496 	
+ 
 	FairHacking                                                                          	FairHacking                                 	https://steamcommunity.com/sharedfiles/filedetails/?id=2872015476 	
 	Custom Effects Percentages WOTC + TLP                                                	CustomEffectsPercentages                    	https://steamcommunity.com/sharedfiles/filedetails/?id=1536602175 	
+ 
 	[WIP][WOTC] Filtered Build Items Menu                                                	WOTC_BuildItemsUIImprovments                	https://steamcommunity.com/sharedfiles/filedetails/?id=2965334502 	
+ 
 	[WOTC] Extended Personnel Info Redux                                                 	EPI_Redux                                   	https://steamcommunity.com/sharedfiles/filedetails/?id=2965980985 	
+ 
 	[WOTC] Iridar's Resizable Armor                                                      	WOTCResizeArmor                             	https://steamcommunity.com/sharedfiles/filedetails/?id=2969648947 	
+ 
 	[WotC] Scanning Protocol Fix                                                         	ScanningProtocolFix                         	https://steamcommunity.com/sharedfiles/filedetails/?id=2365326252 	
+ 
 	[WOTC] Shell Map Swapper                                                             	WOTC_ShellSwap                              	https://steamcommunity.com/sharedfiles/filedetails/?id=2978089366 	
+ 
 	SQUID BE GONE!                                                                       	FixSquidBug                                 	https://steamcommunity.com/sharedfiles/filedetails/?id=2392049232 	
+ 
 	[WOTC] DSL Redux Sort Options Plugin                                                 	WOTC_DSL_Rusty_Sort                         	https://steamcommunity.com/sharedfiles/filedetails/?id=2857715600 	
+ 
 	Long War of the Chosen [BETA]                                                        	LongWarOfTheChosen                          	https://steamcommunity.com/sharedfiles/filedetails/?id=2663990965 	
+ 
 	[WOTC] Show Current PCS                                                              	WOTC_ShowPCSSwap                            	https://steamcommunity.com/sharedfiles/filedetails/?id=2989400002 	
+ 
+ 
 	[WOTC] Full Shadow Report                                                            	WOTC_FullShadowReport                       	https://steamcommunity.com/sharedfiles/filedetails/?id=2995251401 	
+ 
 	X2WOTCCommunityHighlander v1.26.3                                                    	X2WOTCCommunityHighlander                   	https://steamcommunity.com/sharedfiles/filedetails/?id=1134256495 	
+ 
 	[WOTC] Alien Hunters Community Highlander v1.26.3                                    	DLC2CommunityHighlander                     	https://steamcommunity.com/sharedfiles/filedetails/?id=2534737016 	
+ 
 	No Rank Up Throttling                                                                	NoRankUpLimit                               	https://steamcommunity.com/sharedfiles/filedetails/?id=785522241 	
+ 
 	[WOTC] Gotcha Again Redux                                                            	WOTC_GotchaAgainRedux                       	https://steamcommunity.com/sharedfiles/filedetails/?id=3002469584 	
+ 
 	[WOTC] Tactical HUD Lag Fixes                                                        	WOTC_UITacticalHUD_LagFixes                 	https://steamcommunity.com/sharedfiles/filedetails/?id=3018494559 	
-	Coordinated Turn Interruptions                                                       	CoordinatedTurnInterruptions                	https://steamcommunity.com/sharedfiles/filedetails/?id=2984920458 	
+ 
+	Coordinated Turn Interruptions                                                       	CoordinatedTurnInterruptions                	https://steamcommunity.com/sharedfiles/filedetails/?id=2984920458 
+ 
 	[LWOTC] Chosen Weapons Rework Lite                                                   	ChosenWeaponReworkLite                      	https://steamcommunity.com/sharedfiles/filedetails/?id=3043481158 	
+ 
 	[WOTC] Community Translation Mod                                                     	X2CommunityTranslation                      	https://steamcommunity.com/sharedfiles/filedetails/?id=3001342800 	
+ 
 	[WOTC] FOXCOM Psionics                                                               	WOTCFOXCOMLitePsiOverhaul                   	https://steamcommunity.com/sharedfiles/filedetails/?id=3116527810 	
+ 
 	Compatibility - Foxcom Psionics and LWOTC                                            	LWOTCPromotingPsiOperatives                 	https://steamcommunity.com/sharedfiles/filedetails/?id=3122850421 	
+ 
 	WOTCGrenadeScatter                                                                   	WOTCGrenadeScatter                          	           	
 	[WOTC] Grenade Scatter                                                               	WOTCGrenadeScatterGrenades                  	https://steamcommunity.com/sharedfiles/filedetails/?id=2025928724 	
+ 
 	More Nations and Names WotC                                                          	MoreNationsandNamesWotC                     	https://steamcommunity.com/sharedfiles/filedetails/?id=1124284135 	
+ 
 	A Requiem For Man: Gameplay Mutators                                                 	ARFMDarkEvents                              	https://steamcommunity.com/sharedfiles/filedetails/?id=2795578857 	
+ 
 	A Requiem For Man: The Requiem Legion                                                	AHarderWarAbsurdAliens                      	https://steamcommunity.com/sharedfiles/filedetails/?id=2867288932 	
+ 
 	FOXCOM Psionics - Mitzruti's Perk Pack Plugin                                        	FOXCOMPsiMPPPlugin                          	https://steamcommunity.com/sharedfiles/filedetails/?id=3120295092 	
+ 
 	The Ethereal Restoration: Extended                                                   	EtherealAutopsy                             	https://steamcommunity.com/sharedfiles/filedetails/?id=2766831269 	
+ 
 	[WOTC] Lalup's Ethereals                                                             	LalupEtherealRebalance                      	https://steamcommunity.com/sharedfiles/filedetails/?id=3046846024 	
+ 
 	[WotC] Get A Rifle Grip! - Animation Fix                                             	WotC_Armory_GripFix_BattleRifles            	https://steamcommunity.com/sharedfiles/filedetails/?id=1684031097 	
+ 
 	[WOTC] Unstuck Suppression                                                           	ZelfSuppressionCleanseFix                   	https://steamcommunity.com/sharedfiles/filedetails/?id=2976264447 	
+ 
 	Map [Glacier]                                                                        	Map[Glacier]                                	https://steamcommunity.com/sharedfiles/filedetails/?id=2982062780 	
+ 
 	Map [Marshland]                                                                      	Map[Marshland]                              	https://steamcommunity.com/sharedfiles/filedetails/?id=2982065663 	
+ 
 	Map [Water Base]                                                                     	Map[WaterBase]                              	https://steamcommunity.com/sharedfiles/filedetails/?id=2982066357 	
+ 
 	[WOTC] Mercenary Plasma Ghost Templates                                              	MercPlasmaGhostTemplates                    	https://steamcommunity.com/sharedfiles/filedetails/?id=3042712139 	
+ 
 	[WOTC] Eclipsezr Small Map-Cemetery                                                  	[WOTC]EclipsezrSmallMaps                    	https://steamcommunity.com/sharedfiles/filedetails/?id=3064668571 	
+ 
 	WOTC XCOM: EW Covert Operatives Outfits                                              	WOTC_EW_Covert_Operatives                   	https://steamcommunity.com/sharedfiles/filedetails/?id=1988008477 	
+ 
 	Sav Cam Cream Redux (WOTC)                                                           	SavCamCreamRedux                            	https://steamcommunity.com/sharedfiles/filedetails/?id=2219858457 	
+ 
 	[WOTC] Dynamic Deployment by Iridar                                                  	WOTCIridarDynamicDeployment                 	https://steamcommunity.com/sharedfiles/filedetails/?id=2950736651 	
 
-Enemies (6):
 	[WOTC] Paladin Shield Bursters                                                       	WOTC_RustyBearers                           	https://steamcommunity.com/sharedfiles/filedetails/?id=2623093239 	War of the Chosen;Weapon;Alien;Shield;Paladin;Burster
+ 
 	Children Of The King 2.0 [WOTC]                                                      	ChildrenOfTheKingNew                        	https://steamcommunity.com/sharedfiles/filedetails/?id=2205934483 	Alien;gameplay;creativexenos;war of the chosen;children of the king 2.0
+ 
 	[WOTC] EU Berserker                                                                  	EUBerserker                                 	https://steamcommunity.com/sharedfiles/filedetails/?id=1502891114 	Alien;gameplay;creativexenos;war of the chosen;armored berserker
+ 
 	[WOTC] Berserker Omega                                                               	BerserkerOmega                              	https://steamcommunity.com/sharedfiles/filedetails/?id=1472606636 	Alien;gameplay;creativexenos;war of the chosen;berserker omega
+ 
 	LEB's Lategame Enemies                                                               	LEBLGSitReps                                	https://steamcommunity.com/sharedfiles/filedetails/?id=1311300228 	gameplay;item;alien;suffering is fun;war of the chosen
+ 
 	Spectre Vanish Fix                                                                   	SpectreVanishFix                            	https://steamcommunity.com/sharedfiles/filedetails/?id=1373960922 	fix;spectre;vanish;reveal
 
-UI (1):
 	[WOTC] Unit Flag Extended                                                            	WOTCLootIndicator_Extended                  	https://steamcommunity.com/sharedfiles/filedetails/?id=2285967646 	War of the Chosen;UI;Gameplay;Additional Icons. Healthbar;Unit Flag;UFE
 
