@@ -17,6 +17,7 @@ N'hésitez pas à me contacter si vous trouvez des erreurs ou des éléments à 
 La Traduction étant toujours quelque chose de subjectif, J'ai fait quelques choix d'interprétation pour la traduction de certains éléments : 
 
 Pour les classes : 
+
 Hitman => Tueur à gages
 
 Scrapper => Bagarreur
@@ -44,10 +45,15 @@ Recon => éclaireur
 SHIV => V.I.S.L. (Véhicule d'Infanterie Super Lourd)
 
 Bio division => Division Nox
+
 Frost Legion => Légion Givre
+
 Bitterfrots => CryoGel
+
 Pathfinder => Pisteur
+
 PathfinderCaptain => Chasseur-Traqueur
+
 Muton => Goliath
 
 Advanced [Soldier] => [Soldat] Vétéran   (--avancé)
