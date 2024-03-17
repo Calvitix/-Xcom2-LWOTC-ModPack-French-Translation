@@ -18,16 +18,27 @@ La Traduction étant toujours quelque chose de subjectif, J'ai fait quelques cho
 
 Pour les classes : 
 Hitman => Tueur à gages
+
 Scrapper => Bagarreur
+
 Juggernaut => Mastodonte
+
 Heavy => Soldat Lourd
+
 Arsonist => Incendiaire
+
 Crasher => Cascadeur
+
 Gunslinger => Flingueur
+
 StormRider => Cavalier 'Tempête'
+
 StormTrooper => Commando 'Tempête'
+
 BountyHunter => Chasseur de primes
+
 Hijacker => Pirate informatique
+
 Recon => éclaireur
 
 SHIV => V.I.S.L. (Véhicule d'Infanterie Super Lourd)
