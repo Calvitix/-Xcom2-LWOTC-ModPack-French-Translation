@@ -63,14 +63,14 @@ m_strGoToAWC=View Infirmary
 m_strGrantsAbility="GRANTS ABILITY"
 
 [X2DownloadableContentInfo_WotC_GeneModdingFacility]
-GeneModEventLabel="%CLASSNAME GENE MOD:"
+GeneModEventLabel="MOD. GEN. DE %CLASSNAME :"
 
-str_SWO_OnlyMutant_Description="Only A Mutant: losing a Gene Modded limb due to a Grave Wound will disable that Gene Mod."
-str_SWO_OnlyMutant_Tooltip="Losing a Gene Modded limb due to a Grave Wound will disable that Gene Mod. Lost limbs must be restored with Augmentation or another Gene Mod (Requires Macrophagial Transgenesis SWO)."
-str_SWO_MutagenicGrowth_Description="Macrophagial Transgenesis: soldiers can be Gene Modded even while wounded."
-str_SWO_MutagenicGrowth_Tooltip="Soldiers can be Gene Modded even while wounded. Wounded soldiers recover missing health once Gene Modding is complete. If Augments mod is enabled, Gene Mods can be used to restore lost limbs instead of Augments."
-str_SWO_Biosynthesis_Description="Biosynthesis: Augmented limbs can be Gene Modded."
-str_SWO_Biosynthesis_Tooltip="Augmented limbs can be Gene Modded. Gene Mods are no longer removed by Augmenting the Gene Modded limb."
+str_SWO_OnlyMutant_Description="Seulement un Mutant : la perte d'un membre génétiquement modifié à la suite d'une blessure grave désactive cette modification génétique."
+str_SWO_OnlyMutant_Tooltip="La perte d'un membre modifié par un gène à cause d'une blessure grave désactive ce gène. Les membres perdus doivent être restaurés avec l'Augmentation ou un autre Gene Mod (nécessite le SWO Transgénèse macrophagique)."
+str_SWO_MutagenicGrowth_Description="Transgénèse macrophagique : les soldats peuvent être modifiés génétiquement même s'ils sont blessés."
+str_SWO_MutagenicGrowth_Tooltip="Les soldats peuvent être modifiés génétiquement même s'ils sont blessés. Les soldats blessés récupèrent leur santé manquante une fois le Gene Modding terminé. Si le mod Augments est activé, les Gene Mods peuvent être utilisés pour restaurer les membres perdus à la place des Augments.."
+str_SWO_Biosynthesis_Description="Biosynthèse : Les membres augmentés peuvent être modifiés génétiquement."
+str_SWO_Biosynthesis_Tooltip="Les membres augmentés peuvent être modifiés génétiquement. Les modifications génétiques ne sont plus supprimées par l'augmentation du membre modifié génétiquement."
 
 [UIScreenListener_AugmentGeneMod]
 sWarnTitle="ATTENTION"

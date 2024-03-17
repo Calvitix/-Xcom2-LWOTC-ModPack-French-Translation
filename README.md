@@ -39,7 +39,7 @@ Pathfinder => Pisteur
 PathfinderCaptain => Chasseur-Traqueur
 Muton => Goliath
 
-Advanced [Soldier] => [Soldat] Vétéran
+Advanced [Soldier] => [Soldat] Vétéran   (--avancé)
 
 
 

@@ -1,0 +1,7 @@
+[XComGameStateContext_XComScamper]
+FlyOverText="Réaction XCom, Déplacement de fuite"
+
+[X2Effect_ScamperPenalty]
+FriendlyEffectName="Déplacement de fuite"
+FriendlyEffectDescription="Mobilité réduite pour le mouvement de fuite. Sera supprimée si l'unité gagne un autre mouvement ou à la fin du tour si aucune action n'est entreprise."
+RemovedFlyoutText="Déplacement de fuite enlevé"
