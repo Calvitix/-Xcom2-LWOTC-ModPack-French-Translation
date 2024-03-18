@@ -66,7 +66,7 @@ LocFlyOverText="Nuage empoisonné de Célatide"
 
 [Celatidportal X2AbilityTemplate]
 LocFriendlyName="Portail Célatide"
-LocLongDescription="Ouvre un portail à partir duquel plus de Célatids et / ou d'Anonyme peuvent être appelés en renfort."
+LocLongDescription="Ouvre un portail à partir duquel plus de Célatids et/ou d'Anonyme peuvent être appelés en renfort."
 LocHelpText="Portail Célatide ouvert "
 LocFlyOverText="Portail Célatide ouvert"
 
