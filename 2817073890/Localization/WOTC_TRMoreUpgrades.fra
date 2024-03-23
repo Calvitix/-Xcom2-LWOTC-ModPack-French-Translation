@@ -3,9 +3,9 @@
 [TRArmorUpgrade_ArmourModLight X2ArmorUpgradeTemplate]
 FriendlyName="Lightweight Armour Mod"
 FriendlyNamePlural="Lightweight Armour Mods"
-BriefSummary="Streamlines the armour of the wearer, increasing their mobility and dodge, while reducing the distance at which the soldier can be spotted."
+BriefSummary="Streamlines the armour of the wearer, increasing their mobilité and dodge, while reducing the distance at which the soldier can be spotted."
 TinySummary="+Utility Bonus"
-LootTooltip="Streamlines the armour of the wearer, increasing their mobility and dodge, while reducing the distance at which the soldier can be spotted."
+LootTooltip="Streamlines the armour of the wearer, increasing their mobilité and dodge, while reducing the distance at which the soldier can be spotted."
 
 [TRArmorUpgrade_WebbingOverlayBonus X2ArmorUpgradeTemplate]
 FriendlyName="Expanded Webbing Armour Mod"

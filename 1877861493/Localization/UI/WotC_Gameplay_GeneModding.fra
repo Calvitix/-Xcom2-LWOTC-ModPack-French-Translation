@@ -35,11 +35,11 @@ m_str_GMPrevented_ByAugmentation_Arms="This soldier's Arms are augmented and can
 m_str_GMPrevented_ByAugmentation_Legs="This soldier's Legs are augmented and cannot be genetically modified."
 m_str_GMPrevented_ByAugmentation_Skin="More than 50% of this soldier's body is augmented, their skin cannot be genetically modified."
 
-m_strCanBeDisabledByAugment_Eyes="Augmenting this soldier's Head will disable their Eyes Gene Mod."
-m_strCanBeDisabledByAugment_Torso="Augmenting this soldier's Torso will disable their Chest Gene Mod."
-m_strCanBeDisabledByAugment_Arms="Augmenting this soldier's Arms will disable their Arms Gene Mod."
-m_strCanBeDisabledByAugment_Legs="Augmenting this soldier's Legs will disable their Legs Gene Mod."
-m_strCanBeDisabledByAugment_Skin="Equipping this soldier with more than 2 Augments will disable their Skin Gene Mod."
+m_strCanBeDisabledByAugment_Eyes="Augmenting this soldier's Head will disable their Eyes Modification Génétique."
+m_strCanBeDisabledByAugment_Torso="Augmenting this soldier's Torso will disable their Chest Modification Génétique."
+m_strCanBeDisabledByAugment_Arms="Augmenting this soldier's Arms will disable their Arms Modification Génétique."
+m_strCanBeDisabledByAugment_Legs="Augmenting this soldier's Legs will disable their Legs Modification Génétique."
+m_strCanBeDisabledByAugment_Skin="Equipping this soldier with more than 2 Augments will disable their Skin Modification Génétique."
 
 m_strHasBeenDisabledByWound_Eyes="Due to a grave wound sustained by this soldier, their Genetically Modified Eyes have been damaged beyond repair, and now must be replaced by Head Augmentation."
 m_strHasBeenDisabledByWound_Torso="Due to a grave wound sustained by this soldier, their Genetically Modified Chest has been damaged beyond repair, and now must be replaced by Torso Augmentation."

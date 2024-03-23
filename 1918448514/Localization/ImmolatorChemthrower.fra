@@ -1,18 +1,18 @@
 [X2Ability_Immolator]
 ThermalBEffectName = "Rempart Thermique"
-ThermalBEffectDesc = "<Ability:FUMIGATE_BULWARK/>% chance to deflect incoming attacks."
+ThermalBEffectDesc = "<Ability:FUMIGATE_BULWARK/>% chances de détourner les attaques."
 IncandescenceEffectName = "Incandescence"
-IncandescenceEffectDesc = "Illuminated and <Ability:INCAN_CRIT/>% easier to critically hit"
-ViscousAccelerantEffectName = "Viscous Accelerant"
-ViscousAccelerantEffectDesc = "Takes +<Ability:VISC_StackCount/> damage from damage over time effects."
+IncandescenceEffectDesc = "Allume, et augmente de <Ability:INCAN_CRIT/>% les chances de générer un critique."
+ViscousAccelerantEffectName = "Accélérateur visqueux"
+ViscousAccelerantEffectDesc = "Génère +<Ability:VISC_StackCount/> dégâts causés par les effets dans le temps."
 
 ChemicalDeflectorSquadName="Bastion Chimique"
-ChemicalDeflectorSquadDesc="Gain immunity to the damage types of the Alchemist's Chemthrower and Canister."
+ChemicalDeflectorSquadDesc="Gagne l'immunité aux types de dégâts du lanceur-chimique et de la cartouche de l'alchimiste."
 
 [X2Ability_Canisters]
 MedicCanisterBuffLabel = "Régénération"
 MedicCanisterBuffDesc = "Régénère une petite quantité de points de vie au fil du temps."
 
 [X2DownloadableContentInfo_ImmolatorChemthrower]
-CannotEquipCanisterLabel = "Requires Chemthrower"
-CannotEquipWithCanisterLabel = "Must Unequip Canister First"
+CannotEquipCanisterLabel = "Requiert un lanceur-chimique"
+CannotEquipWithCanisterLabel = "Déséquiper la cartouche en premier"

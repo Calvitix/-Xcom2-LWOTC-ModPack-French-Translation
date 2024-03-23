@@ -20,7 +20,7 @@ Summary="This soldier receives a large bonus to Psi Offense, but cannot contain 
 
 [GM_IRI_CheetahGenes X2GeneModTemplate]
 DisplayName="Gènes de Cheetah"
-Summary="This soldier receives +6/4/2 Mobilité when using Light/Medium/Heavy Armor. Moving Volonté make the soldier gradually lose the bonus, and even transform it into a penalty. Lost mobility is gradually recovered each turn the soldier doesn't move. Soldier has better eyesight during the day and worse during the night."
+Summary="This soldier receives +6/4/2 Mobilité when using Light/Medium/Heavy Armor. Moving Volonté make the soldier gradually lose the bonus, and even transform it into a penalty. Lost mobilité is gradually recovered each turn the soldier doesn't move. Soldier has better eyesight during the day and worse during the night."
 
 [GM_IRI_LizardReflex X2GeneModTemplate]
 DisplayName="Réflexes de Vipère"
