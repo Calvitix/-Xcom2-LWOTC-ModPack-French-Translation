@@ -106,11 +106,11 @@ TinySummary="+Utility Bonus"
 LootTooltip="Donne a free HE Charge."
 
 [TRArmorUpgrade_FireRetardantLayerAbility X2ArmorUpgradeTemplate]
-FriendlyName="Fire Retardant Layer"
-FriendlyNamePlural="Fire Retardant Layers"
-BriefSummary="Provides Fire immunity."
-TinySummary="+Utility Bonus"
-LootTooltip="Provides Fire immunity."
+FriendlyName="Couche ignifuge"
+FriendlyNamePlural="Couche ignifuge"
+BriefSummary="Immunité contre le feu."
+TinySummary="+Bonus utilisé"
+LootTooltip="Immunité contre le feu."
 
 [TRArmorUpgrade_PathogenBarrierLayerAbility X2ArmorUpgradeTemplate]
 FriendlyName="Pathogen Barrier Layer"
