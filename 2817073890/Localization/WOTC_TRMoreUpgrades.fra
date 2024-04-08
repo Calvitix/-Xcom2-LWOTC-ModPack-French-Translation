@@ -24,9 +24,9 @@ LootTooltip="Adds 2 Armour and 1 PV. Reduces Mobility, esquive and stealth."
 [TRArmorUpgrade_GBandolierBonus X2ArmorUpgradeTemplate]
 FriendlyName="Grenade Bandolier Armour Mod"
 FriendlyNamePlural="Grenade Bandolier Armour Mods"
-BriefSummary="Provides an extra use of frag, alien, smoke, underbarrel, AP, molotov and flash grenades and an extra frag grenade."
+BriefSummary="Provides an extra use of frag, alien, fumigène, sous-barillet, AP, molotov and flash grenades and an extra frag grenade."
 TinySummary="+Utility Bonus"
-LootTooltip="Provides an extra use of frag, alien, smoke, underbarrel, AP, molotov and flash grenades and an extra frag grenade."
+LootTooltip="Provides an extra use of frag, alien, fumigène, sous-barillet, AP, molotov and flash grenades and an extra frag grenade."
 
 [TRArmorUpgrade_AssaultOverlayBonus X2ArmorUpgradeTemplate]
 FriendlyName="Assault Gear Armour Mod"
@@ -45,9 +45,9 @@ LootTooltip="Provides an extra utility slot for medical equipment and an extra u
 [TRArmorUpgrade_HazmatAModBonus X2ArmorUpgradeTemplate]
 FriendlyName="Sealed Armour Mod"
 FriendlyNamePlural="Sealed Armour Mods"
-BriefSummary="This AMod grants 2HP and provides immunity to fire, acid and all types of poison."
+BriefSummary="This AMod grants 2PV and provides immunity to fire, acid and all types of poison."
 TinySummary="+Utility Bonus"
-LootTooltip="This AMod grants 2HP and provides immunity to fire, acid and all types of poison."
+LootTooltip="This AMod grants 2PV and provides immunity to fire, acid and all types of poison."
 
 [TRArmorUpgrade_EngeneeringAModBonus X2ArmorUpgradeTemplate]
 FriendlyName="Engineering Gear Armour Mod"

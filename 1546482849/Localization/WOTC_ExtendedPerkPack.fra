@@ -1,6 +1,6 @@
 [X2Ability_ExtendedPerkPack]
 LocCombatDrugsEffect="Drogues de Combat"
-LocCombatDrugsEffectDescription="This smoke effect was created by a unit with Combat Drugs, and grants +<Ability:COMBATDRUGS_AIM/> aim and +<Ability:COMBATDRUGS_CRIT/> critical chance."
+LocCombatDrugsEffectDescription="This fumigène effect was created by a unit with Combat Drugs, and grants +<Ability:COMBATDRUGS_AIM/> aim and +<Ability:COMBATDRUGS_CRIT/> critical chance."
 
 LocBolsteredWallEffect="Mur à traverses"
 LocBolsteredWallEffectDescription="While Mur protecteur is in effect, gagne +<Ability:BOLSTEREDWALL_DODGE_BONUS/> bonus Esquive."
@@ -9,7 +9,7 @@ LocFaultlessDefenseEffect="Défense sans faille"
 LocFaultlessDefenseEffectDescription="While Mur protecteur is active, you cannot be critically hit."
 
 LocRegenerativeMistEffect="Brume régénératrice"
-LocRegenerativeMistEffectDescription="This smoke effect was created by a unit with Regenerative Mist, granting health restoration."
+LocRegenerativeMistEffectDescription="This fumigène effect was created by a unit with Regenerative Mist, granting health restoration."
 
 LocStayCoveredEffect="Rester à couvert"
 LocStayCoveredEffectDescription="Removes the Defense penalty from Mur protecteur."

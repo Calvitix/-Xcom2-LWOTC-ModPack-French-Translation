@@ -191,9 +191,9 @@ DisplayName="Legacy Kevlar Elbowpad (A)"
 [CnvMed_KevlarBase_Forearm_Left_A2_F X2BodyPartTemplate]
 DisplayName="Legacy Kevlar Elbowpad (B)"
 [CnvMed_KevlarHeavy_Forearm_Left_A_F X2BodyPartTemplate]
-DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+DisplayName="Legacy Kevlar Heavy Gantelet (A)"
 [CnvMed_KevlarHeavy_Forearm_Left_B_F X2BodyPartTemplate]
-DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+DisplayName="Legacy Kevlar Heavy Gantelet (B)"
 [CnvMed_KevlarMix_Forearm_Left_A1_F X2BodyPartTemplate]
 DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
 [CnvMed_KevlarMix_Forearm_Left_A2_F X2BodyPartTemplate]
@@ -208,9 +208,9 @@ DisplayName="Legacy Kevlar Elbowpad (A)"
 [CnvMed_KevlarBase_Forearm_Left_A2_M X2BodyPartTemplate]
 DisplayName="Legacy Kevlar Elbowpad (B)"
 [CnvMed_KevlarHeavy_Forearm_Left_A_M X2BodyPartTemplate]
-DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+DisplayName="Legacy Kevlar Heavy Gantelet (A)"
 [CnvMed_KevlarHeavy_Forearm_Left_B_M X2BodyPartTemplate]
-DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+DisplayName="Legacy Kevlar Heavy Gantelet (B)"
 [CnvMed_KevlarMix_Forearm_Left_A1_M X2BodyPartTemplate]
 DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
 [CnvMed_KevlarMix_Forearm_Left_A2_M X2BodyPartTemplate]
@@ -225,9 +225,9 @@ DisplayName="Legacy Kevlar Elbowpad (A)"
 [CnvMed_KevlarBase_Forearm_Right_A2_F X2BodyPartTemplate]
 DisplayName="Legacy Kevlar Elbowpad (B)"
 [CnvMed_KevlarHeavy_Forearm_Right_A_F X2BodyPartTemplate]
-DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+DisplayName="Legacy Kevlar Heavy Gantelet (A)"
 [CnvMed_KevlarHeavy_Forearm_Right_B_F X2BodyPartTemplate]
-DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+DisplayName="Legacy Kevlar Heavy Gantelet (B)"
 [CnvMed_KevlarMix_Forearm_Right_A1_F X2BodyPartTemplate]
 DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
 [CnvMed_KevlarMix_Forearm_Right_A2_F X2BodyPartTemplate]
@@ -242,9 +242,9 @@ DisplayName="Legacy Kevlar Elbowpad (A)"
 [CnvMed_KevlarBase_Forearm_Right_A2_M X2BodyPartTemplate]
 DisplayName="Legacy Kevlar Elbowpad (B)"
 [CnvMed_KevlarHeavy_Forearm_Right_A_M X2BodyPartTemplate]
-DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+DisplayName="Legacy Kevlar Heavy Gantelet (A)"
 [CnvMed_KevlarHeavy_Forearm_Right_B_M X2BodyPartTemplate]
-DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+DisplayName="Legacy Kevlar Heavy Gantelet (B)"
 [CnvMed_KevlarMix_Forearm_Right_A1_M X2BodyPartTemplate]
 DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
 [CnvMed_KevlarMix_Forearm_Right_A2_M X2BodyPartTemplate]
@@ -577,9 +577,9 @@ DisplayName="Legacy Plated Elbowpad (C)"
 [PltMed_PlatedBase_Forearm_Left_B2_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Elbowpad (D)"
 [PltMed_PlatedBase_Forearm_Left_C1_F X2BodyPartTemplate]
-DisplayName="Legacy Plated Gauntlet"
+DisplayName="Legacy Plated Gantelet"
 [PltMed_PlatedBase_Forearm_Left_C2_F X2BodyPartTemplate]
-DisplayName="Legacy Plated Reinforced Gauntlet"
+DisplayName="Legacy Plated Reinforced Gantelet"
 [PltMed_PlatedAssault_Forearm_Left_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Assault Wrap"
 [PltMed_PlatedHeavy_Forearm_Left_A_F X2BodyPartTemplate]
@@ -587,7 +587,7 @@ DisplayName="Legacy Plated Heavy Elbowpad (A)"
 [PltMed_PlatedHeavy_Forearm_Left_B_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Heavy Elbowpad (B)"
 [PltMed_PlatedHeavy_Forearm_Left_C_F X2BodyPartTemplate]
-DisplayName="Legacy Plated Heavy Gauntlet"
+DisplayName="Legacy Plated Heavy Gantelet"
 [PltMed_PlatedSniper_Forearm_Left_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Sniper Elbowpad"
 
@@ -657,9 +657,9 @@ DisplayName="Legacy Plated Elbowpad (C)"
 [PltMed_PlatedBase_Forearm_Left_B2_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Elbowpad (D)"
 [PltMed_PlatedBase_Forearm_Left_C1_M X2BodyPartTemplate]
-DisplayName="Legacy Plated Gauntlet"
+DisplayName="Legacy Plated Gantelet"
 [PltMed_PlatedBase_Forearm_Left_C2_M X2BodyPartTemplate]
-DisplayName="Legacy Plated Reinforced Gauntlet"
+DisplayName="Legacy Plated Reinforced Gantelet"
 [PltMed_PlatedAssault_Forearm_Left_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Assault Wrap"
 [PltMed_PlatedHeavy_Forearm_Left_A_M X2BodyPartTemplate]
@@ -667,7 +667,7 @@ DisplayName="Legacy Plated Heavy Elbowpad (A)"
 [PltMed_PlatedHeavy_Forearm_Left_B_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Heavy Elbowpad (B)"
 [PltMed_PlatedHeavy_Forearm_Left_C_M X2BodyPartTemplate]
-DisplayName="Legacy Plated Heavy Gauntlet"
+DisplayName="Legacy Plated Heavy Gantelet"
 [PltMed_PlatedSniper_Forearm_Left_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Sniper Elbowpad"
 
@@ -737,9 +737,9 @@ DisplayName="Legacy Plated Elbowpad (C)"
 [PltMed_PlatedBase_Forearm_Right_B2_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Elbowpad (D)"
 [PltMed_PlatedBase_Forearm_Right_C1_F X2BodyPartTemplate]
-DisplayName="Legacy Plated Gauntlet"
+DisplayName="Legacy Plated Gantelet"
 [PltMed_PlatedBase_Forearm_Right_C2_F X2BodyPartTemplate]
-DisplayName="Legacy Plated Reinforced Gauntlet"
+DisplayName="Legacy Plated Reinforced Gantelet"
 [PltMed_PlatedAssault_Forearm_Right_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Assault Wrap"
 [PltMed_PlatedHeavy_Forearm_Right_A_F X2BodyPartTemplate]
@@ -747,7 +747,7 @@ DisplayName="Legacy Plated Heavy Elbowpad (A)"
 [PltMed_PlatedHeavy_Forearm_Right_B_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Heavy Elbowpad (B)"
 [PltMed_PlatedHeavy_Forearm_Right_C_F X2BodyPartTemplate]
-DisplayName="Legacy Plated Heavy Gauntlet"
+DisplayName="Legacy Plated Heavy Gantelet"
 [PltMed_PlatedSniper_Forearm_Right_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Sniper Elbowpad"
 
@@ -817,9 +817,9 @@ DisplayName="Legacy Plated Elbowpad (C)"
 [PltMed_PlatedBase_Forearm_Right_B2_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Elbowpad (D)"
 [PltMed_PlatedBase_Forearm_Right_C1_M X2BodyPartTemplate]
-DisplayName="Legacy Plated Gauntlet"
+DisplayName="Legacy Plated Gantelet"
 [PltMed_PlatedBase_Forearm_Right_C2_M X2BodyPartTemplate]
-DisplayName="Legacy Plated Reinforced Gauntlet"
+DisplayName="Legacy Plated Reinforced Gantelet"
 [PltMed_PlatedAssault_Forearm_Right_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Assault Wrap"
 [PltMed_PlatedHeavy_Forearm_Right_A_M X2BodyPartTemplate]
@@ -827,7 +827,7 @@ DisplayName="Legacy Plated Heavy Elbowpad (A)"
 [PltMed_PlatedHeavy_Forearm_Right_B_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Heavy Elbowpad (B)"
 [PltMed_PlatedHeavy_Forearm_Right_C_M X2BodyPartTemplate]
-DisplayName="Legacy Plated Heavy Gauntlet"
+DisplayName="Legacy Plated Heavy Gantelet"
 [PltMed_PlatedSniper_Forearm_Right_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Sniper Elbowpad"
 
@@ -1211,9 +1211,9 @@ DisplayName="Legacy Plated Elbowpad (C)"
 [PltLgt_PlatedBase_Forearm_Left_B2_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Elbowpad (D)"
 [PltLgt_PlatedBase_Forearm_Left_C1_F X2BodyPartTemplate]
-DisplayName="Legacy Plated Gauntlet"
+DisplayName="Legacy Plated Gantelet"
 [PltLgt_PlatedBase_Forearm_Left_C2_F X2BodyPartTemplate]
-DisplayName="Legacy Plated Reinforced Gauntlet"
+DisplayName="Legacy Plated Reinforced Gantelet"
 [PltLgt_PlatedAssault_Forearm_Left_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Assault Wrap"
 [PltLgt_PlatedHeavy_Forearm_Left_A_F X2BodyPartTemplate]
@@ -1221,7 +1221,7 @@ DisplayName="Legacy Plated Heavy Elbowpad (A)"
 [PltLgt_PlatedHeavy_Forearm_Left_B_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Heavy Elbowpad (B)"
 [PltLgt_PlatedHeavy_Forearm_Left_C_F X2BodyPartTemplate]
-DisplayName="Legacy Plated Heavy Gauntlet"
+DisplayName="Legacy Plated Heavy Gantelet"
 [PltLgt_PlatedSniper_Forearm_Left_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Sniper Elbowpad"
 
@@ -1291,9 +1291,9 @@ DisplayName="Legacy Plated Elbowpad (C)"
 [PltLgt_PlatedBase_Forearm_Left_B2_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Elbowpad (D)"
 [PltLgt_PlatedBase_Forearm_Left_C1_M X2BodyPartTemplate]
-DisplayName="Legacy Plated Gauntlet"
+DisplayName="Legacy Plated Gantelet"
 [PltLgt_PlatedBase_Forearm_Left_C2_M X2BodyPartTemplate]
-DisplayName="Legacy Plated Reinforced Gauntlet"
+DisplayName="Legacy Plated Reinforced Gantelet"
 [PltLgt_PlatedAssault_Forearm_Left_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Assault Wrap"
 [PltLgt_PlatedHeavy_Forearm_Left_A_M X2BodyPartTemplate]
@@ -1301,7 +1301,7 @@ DisplayName="Legacy Plated Heavy Elbowpad (A)"
 [PltLgt_PlatedHeavy_Forearm_Left_B_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Heavy Elbowpad (B)"
 [PltLgt_PlatedHeavy_Forearm_Left_C_M X2BodyPartTemplate]
-DisplayName="Legacy Plated Heavy Gauntlet"
+DisplayName="Legacy Plated Heavy Gantelet"
 [PltLgt_PlatedSniper_Forearm_Left_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Sniper Elbowpad"
 
@@ -1371,9 +1371,9 @@ DisplayName="Legacy Plated Elbowpad (C)"
 [PltLgt_PlatedBase_Forearm_Right_B2_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Elbowpad (D)"
 [PltLgt_PlatedBase_Forearm_Right_C1_F X2BodyPartTemplate]
-DisplayName="Legacy Plated Gauntlet"
+DisplayName="Legacy Plated Gantelet"
 [PltLgt_PlatedBase_Forearm_Right_C2_F X2BodyPartTemplate]
-DisplayName="Legacy Plated Reinforced Gauntlet"
+DisplayName="Legacy Plated Reinforced Gantelet"
 [PltLgt_PlatedAssault_Forearm_Right_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Assault Wrap"
 [PltLgt_PlatedHeavy_Forearm_Right_A_F X2BodyPartTemplate]
@@ -1381,7 +1381,7 @@ DisplayName="Legacy Plated Heavy Elbowpad (A)"
 [PltLgt_PlatedHeavy_Forearm_Right_B_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Heavy Elbowpad (B)"
 [PltLgt_PlatedHeavy_Forearm_Right_C_F X2BodyPartTemplate]
-DisplayName="Legacy Plated Heavy Gauntlet"
+DisplayName="Legacy Plated Heavy Gantelet"
 [PltLgt_PlatedSniper_Forearm_Right_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Sniper Elbowpad"
 
@@ -1451,9 +1451,9 @@ DisplayName="Legacy Plated Elbowpad (C)"
 [PltLgt_PlatedBase_Forearm_Right_B2_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Elbowpad (D)"
 [PltLgt_PlatedBase_Forearm_Right_C1_M X2BodyPartTemplate]
-DisplayName="Legacy Plated Gauntlet"
+DisplayName="Legacy Plated Gantelet"
 [PltLgt_PlatedBase_Forearm_Right_C2_M X2BodyPartTemplate]
-DisplayName="Legacy Plated Reinforced Gauntlet"
+DisplayName="Legacy Plated Reinforced Gantelet"
 [PltLgt_PlatedAssault_Forearm_Right_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Assault Wrap"
 [PltLgt_PlatedHeavy_Forearm_Right_A_M X2BodyPartTemplate]
@@ -1461,7 +1461,7 @@ DisplayName="Legacy Plated Heavy Elbowpad (A)"
 [PltLgt_PlatedHeavy_Forearm_Right_B_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Heavy Elbowpad (B)"
 [PltLgt_PlatedHeavy_Forearm_Right_C_M X2BodyPartTemplate]
-DisplayName="Legacy Plated Heavy Gauntlet"
+DisplayName="Legacy Plated Heavy Gantelet"
 [PltLgt_PlatedSniper_Forearm_Right_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Sniper Elbowpad"
 
@@ -1845,9 +1845,9 @@ DisplayName="Legacy Plated Elbowpad (C)"
 [PltHvy_PlatedBase_Forearm_Left_B2_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Elbowpad (D)"
 [PltHvy_PlatedBase_Forearm_Left_C1_F X2BodyPartTemplate]
-DisplayName="Legacy Plated Gauntlet"
+DisplayName="Legacy Plated Gantelet"
 [PltHvy_PlatedBase_Forearm_Left_C2_F X2BodyPartTemplate]
-DisplayName="Legacy Plated Reinforced Gauntlet"
+DisplayName="Legacy Plated Reinforced Gantelet"
 [PltHvy_PlatedAssault_Forearm_Left_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Assault Wrap"
 [PltHvy_PlatedHeavy_Forearm_Left_A_F X2BodyPartTemplate]
@@ -1855,7 +1855,7 @@ DisplayName="Legacy Plated Heavy Elbowpad (A)"
 [PltHvy_PlatedHeavy_Forearm_Left_B_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Heavy Elbowpad (B)"
 [PltHvy_PlatedHeavy_Forearm_Left_C_F X2BodyPartTemplate]
-DisplayName="Legacy Plated Heavy Gauntlet"
+DisplayName="Legacy Plated Heavy Gantelet"
 [PltHvy_PlatedSniper_Forearm_Left_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Sniper Elbowpad"
 
@@ -1925,9 +1925,9 @@ DisplayName="Legacy Plated Elbowpad (C)"
 [PltHvy_PlatedBase_Forearm_Left_B2_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Elbowpad (D)"
 [PltHvy_PlatedBase_Forearm_Left_C1_M X2BodyPartTemplate]
-DisplayName="Legacy Plated Gauntlet"
+DisplayName="Legacy Plated Gantelet"
 [PltHvy_PlatedBase_Forearm_Left_C2_M X2BodyPartTemplate]
-DisplayName="Legacy Plated Reinforced Gauntlet"
+DisplayName="Legacy Plated Reinforced Gantelet"
 [PltHvy_PlatedAssault_Forearm_Left_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Assault Wrap"
 [PltHvy_PlatedHeavy_Forearm_Left_A_M X2BodyPartTemplate]
@@ -1935,7 +1935,7 @@ DisplayName="Legacy Plated Heavy Elbowpad (A)"
 [PltHvy_PlatedHeavy_Forearm_Left_B_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Heavy Elbowpad (B)"
 [PltHvy_PlatedHeavy_Forearm_Left_C_M X2BodyPartTemplate]
-DisplayName="Legacy Plated Heavy Gauntlet"
+DisplayName="Legacy Plated Heavy Gantelet"
 [PltHvy_PlatedSniper_Forearm_Left_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Sniper Elbowpad"
 
@@ -2005,9 +2005,9 @@ DisplayName="Legacy Plated Elbowpad (C)"
 [PltHvy_PlatedBase_Forearm_Right_B2_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Elbowpad (D)"
 [PltHvy_PlatedBase_Forearm_Right_C1_F X2BodyPartTemplate]
-DisplayName="Legacy Plated Gauntlet"
+DisplayName="Legacy Plated Gantelet"
 [PltHvy_PlatedBase_Forearm_Right_C2_F X2BodyPartTemplate]
-DisplayName="Legacy Plated Reinforced Gauntlet"
+DisplayName="Legacy Plated Reinforced Gantelet"
 [PltHvy_PlatedAssault_Forearm_Right_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Assault Wrap"
 [PltHvy_PlatedHeavy_Forearm_Right_A_F X2BodyPartTemplate]
@@ -2015,7 +2015,7 @@ DisplayName="Legacy Plated Heavy Elbowpad (A)"
 [PltHvy_PlatedHeavy_Forearm_Right_B_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Heavy Elbowpad (B)"
 [PltHvy_PlatedHeavy_Forearm_Right_C_F X2BodyPartTemplate]
-DisplayName="Legacy Plated Heavy Gauntlet"
+DisplayName="Legacy Plated Heavy Gantelet"
 [PltHvy_PlatedSniper_Forearm_Right_F X2BodyPartTemplate]
 DisplayName="Legacy Plated Sniper Elbowpad"
 
@@ -2085,9 +2085,9 @@ DisplayName="Legacy Plated Elbowpad (C)"
 [PltHvy_PlatedBase_Forearm_Right_B2_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Elbowpad (D)"
 [PltHvy_PlatedBase_Forearm_Right_C1_M X2BodyPartTemplate]
-DisplayName="Legacy Plated Gauntlet"
+DisplayName="Legacy Plated Gantelet"
 [PltHvy_PlatedBase_Forearm_Right_C2_M X2BodyPartTemplate]
-DisplayName="Legacy Plated Reinforced Gauntlet"
+DisplayName="Legacy Plated Reinforced Gantelet"
 [PltHvy_PlatedAssault_Forearm_Right_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Assault Wrap"
 [PltHvy_PlatedHeavy_Forearm_Right_A_M X2BodyPartTemplate]
@@ -2095,7 +2095,7 @@ DisplayName="Legacy Plated Heavy Elbowpad (A)"
 [PltHvy_PlatedHeavy_Forearm_Right_B_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Heavy Elbowpad (B)"
 [PltHvy_PlatedHeavy_Forearm_Right_C_M X2BodyPartTemplate]
-DisplayName="Legacy Plated Heavy Gauntlet"
+DisplayName="Legacy Plated Heavy Gantelet"
 [PltHvy_PlatedSniper_Forearm_Right_M X2BodyPartTemplate]
 DisplayName="Legacy Plated Sniper Elbowpad"
 
