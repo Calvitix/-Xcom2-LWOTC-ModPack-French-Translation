@@ -1,74 +1,74 @@
 [UIFacility_GeneModChamberSlot]
-m_strWarnFirstTimeGeneModDialogTitle=GENE MOD OPERATION
-m_strWarnFirstTimeGeneModDialogText=Congrats, Commander! You are about to cross the line of unethical medical practices known as GENEtic MODding. Before going under the knife, there a few rules to follow:<ul><li><b>GENE MODS ARE PERMANENT!</b></li><li>You can cancel the project anytime, but the resources that went into this project will be wasted, and the soldier that was assigned to the slot will have a negative ability perk that is permanent until the next successful Gene Mod operation.</li><li>Some Gene mods require prerequisites.</li><li>Not all Gene Mods can be installed at once. Some types are incompatible with others.</li><li>Most Gene Mods cost Will.</li></ul>\n\nHave fun opening Pandora's Box!
-m_strWarnStopGeneModDialogTitle=STOP GENE MODIFICATION
-m_strWarnStopGeneModNegEnabledDialogText=If you stop %UNITNAME from undergoing genetic modifications, %GENDER will acquire a negative trait that cannot be removed until the next successful genetic modification operation! Not only that, the resources that went into this project will be wasted! Are you sure you still want to stop the project?
-m_strWarnStopGeneModNegDisabledDialogText=If you stop %UNITNAME from undergoing genetic modifications, the resources that went into this project will be wasted! Are you sure you still want to stop the project?
+m_strWarnFirstTimeGeneModDialogTitle=OPÉRATION DE MOD. GÉN.
+m_strWarnFirstTimeGeneModDialogText=Félicitations, Commandant ! Vous allez passer la ligne de pratiques médicales contre l'éthique, en réalisant des modifications génétique sur le génome humain. Avant de jouer du sclapel, il y a quelques règles à respecter :<ul><li>Les <b>MOD. GÉN. SONT PERMANENTES !</b></li><li>Vous pouvez annuler l'opération à tout moment, mais les ressources seront perdues, et le soldat aura des sequelles négatives permanente, jusqu'à une éventuelle nouvelle opération.</li><li>Certains modifications ont des pré-requis.</li><li>Les modifications génétiques doivent être installées progressivement, et certaines sont incompatibles entre elles.</li><li>La plupart des modifications génétiques coûtent de la volonté.</li></ul>\n\nMaintenant, ouvrons la boîte de Pandore !
+m_strWarnStopGeneModDialogTitle="STOPPER LA MODIFICATION GÉN."
+m_strWarnStopGeneModNegEnabledDialogText="Si vous arrêtez les modifications génétiques de %UNITNAME, %GENDER va avoir des séquelles qui ne pourront pas être ôtées, sauf à réitérer une nouvelle opération de modifications génétiques ! De plus, toutes les ressources investies dans cette opération seront perdues ! Êtes-vous sûr de vouloir arrêter le projet ?"
+m_strWarnStopGeneModNegDisabledDialogText="Si vous arrêtez les modifications génétiques de %UNITNAME, toutes les ressources investies dans cette opération seront perdues ! Êtes-vous sûr de vouloir arrêter le projet ?"
 
-m_strSoldiersAvailableTooltip=Assign a soldier to modify their genes to become more powerful.
-m_strOKDisable="DO NOT SHOW ME THIS AGAIN"
+m_strSoldiersAvailableTooltip="Assigner un soldat, afin de lui faire subir une opération pour lui modifier ses gênes et le rendre plus fort."
+m_strOKDisable="NE PLUS AFFICHER"
 
 [UICommodity_GeneModUpgrade]
-m_strTitle=GENETIC MODIFICATIONS
-m_strSubTitle=STAT ADJUSTMENT
-m_strInventoryLabel=Available Modifications
-m_strBuy=BEGIN MODIFICATION
-m_strRestricted=[RESTRICTED]
-m_strTotalLabel=No Refunds
+m_strTitle=MODIFICATIONS GÉNÉTIQUES
+m_strSubTitle=AJUSTEMENT DE STATS
+m_strInventoryLabel=Modifications Disponibles
+m_strBuy=COMMENCER MODIF.
+m_strRestricted=[RESTRICTION]
+m_strTotalLabel="Pas de Remb."
 m_strGMDialogNegDisabledTitle=ATTENTION
-m_strGMDialogNegDisabledText=Are you absolutely sure you want to modify this soldier's genes?
+m_strGMDialogNegDisabledText=Êtes-vous absolument sûr de vouloir modifier les gênes de ce Soldat ?
 m_strGMDialogNegEnabledTitle=ATTENTION
-m_strGMDialogNegEnabledText=Are you absolutely sure you want to modify this soldier's genes? If you accept, then cancel the project later on, there will be unintended consequences!
-m_strGMCat1 = BRAIN
-m_strGMCat2 = EYES
-m_strGMCat3 = CHEST
-m_strGMCat4 = SKIN
-m_strGMCat5 = LEGS
-m_strGMCat6 = ARMS
-m_strGMCat7 = MISC
-m_strSoldierStatus = %SKILL Operation
+m_strGMDialogNegEnabledText=Êtes-vous absolument sûr de vouloir modifier les gênes de ce Soldat ? Si vous acceptez, et annulez le projet plus tard, il y aura des conséquences inattendues !
+m_strGMCat1 = CERVEAU
+m_strGMCat2 = YEUX
+m_strGMCat3 = CORPS
+m_strGMCat4 = PEAU
+m_strGMCat5 = JAMBES
+m_strGMCat6 = BRAS
+m_strGMCat7 = DIVERS
+m_strSoldierStatus = "%SKILL Opération"
 
 [X2GeneModTemplate]
-m_str_GMPrevented_ByAugmentation_Eyes="This soldier's Eyes are augmented and cannot be genetically modified."
-m_str_GMPrevented_ByAugmentation_Torso="This soldier's Torso is augmented and cannot be genetically modified."
-m_str_GMPrevented_ByAugmentation_Arms="This soldier's Arms are augmented and cannot be genetically modified."
-m_str_GMPrevented_ByAugmentation_Legs="This soldier's Legs are augmented and cannot be genetically modified."
-m_str_GMPrevented_ByAugmentation_Skin="More than 50% of this soldier's body is augmented, their skin cannot be genetically modified."
+m_str_GMPrevented_ByAugmentation_Eyes="Les yeux de ce Soldat sont augmentés cybernétiquement, et ne peuvent pas être modifiés génétiquement."
+m_str_GMPrevented_ByAugmentation_Torso="Le Torse de ce Soldat est augmenté cybernétiquement, et ne peut pas être modifié génétiquement."
+m_str_GMPrevented_ByAugmentation_Arms="Les bras de ce Soldat sont augmentés cybernétiquement, et ne peuvent pas être modifiés génétiquement."
+m_str_GMPrevented_ByAugmentation_Legs="Les jambes de ce Soldat sont augmentés cybernétiquement, et ne peuvent pas être modifiées génétiquement."
+m_str_GMPrevented_ByAugmentation_Skin="Plus de 50% du corps de ce Soldat est augmentés cybernétiquement, sa peau ne peut pas être modifiée génétiquement."
 
-m_strCanBeDisabledByAugment_Eyes="Augmenting this soldier's Head will disable their Eyes Modification Génétique."
-m_strCanBeDisabledByAugment_Torso="Augmenting this soldier's Torso will disable their Chest Modification Génétique."
-m_strCanBeDisabledByAugment_Arms="Augmenting this soldier's Arms will disable their Arms Modification Génétique."
-m_strCanBeDisabledByAugment_Legs="Augmenting this soldier's Legs will disable their Legs Modification Génétique."
-m_strCanBeDisabledByAugment_Skin="Equipping this soldier with more than 2 Augments will disable their Skin Modification Génétique."
+m_strCanBeDisabledByAugment_Eyes="Augmenter la Tête de ce Soldat va désactiver ses modifications génétiques aux  Yeux."
+m_strCanBeDisabledByAugment_Torso="Augmenter le Torse de ce Soldat va désactiver ses modifications génétiques au corps."
+m_strCanBeDisabledByAugment_Arms="Augmenter les bras de ce Soldat va désactiver ses modifications génétiques aux bras."
+m_strCanBeDisabledByAugment_Legs="Augmenter les jambes de ce Soldat va désactiver ses modifications génétiques aux jambes."
+m_strCanBeDisabledByAugment_Skin="Équiper ce Soldat avec plus de 2 Augmentation cybernétiques va désactiver ses modifications génétiques au niveau de la peau."
 
-m_strHasBeenDisabledByWound_Eyes="Due to a grave wound sustained by this soldier, their Genetically Modified Eyes have been damaged beyond repair, and now must be replaced by Head Augmentation."
-m_strHasBeenDisabledByWound_Torso="Due to a grave wound sustained by this soldier, their Genetically Modified Chest has been damaged beyond repair, and now must be replaced by Torso Augmentation."
-m_strHasBeenDisabledByWound_Arms="Due to a grave wound sustained by this soldier, their Genetically Modified Arms have been damaged beyond repair, and now must be replaced by Arms Augmentation."
-m_strHasBeenDisabledByWound_Legs="Due to a grave wound sustained by this soldier, their Genetically Modified Legs have been damaged beyond repair, and now must be replaced by Legs Augmentation."
-m_strHasBeenDisabledByWound_Skin="Due to a grave wound sustained by this soldier, their Genetically Modified Skin has been damaged beyond repair, and now must be replaced by Augmentation."
+m_strHasBeenDisabledByWound_Eyes="En raison des blessures graves de ce soldat, ses modifications génétiques aux  Yeux ont été trop endommagées, et doivent être remplacées par une augmentation cybernétique au niveau de la Tête."
+m_strHasBeenDisabledByWound_Torso="En raison des blessures graves de ce soldat, ses modifications génétiques au Corps ont été trop endommagées, et doivent être remplacées par une augmentation cybernétique au niveau du Torse."
+m_strHasBeenDisabledByWound_Arms="En raison des blessures graves de ce soldat, ses modifications génétiques aux  bras ont été trop endommagées, et doivent être remplacées par une augmentation cybernétique au niveau des bras."
+m_strHasBeenDisabledByWound_Legs="En raison des blessures graves de ce soldat, ses modifications génétiques aux  Jambes ont été trop endommagées, et doivent être remplacées par une augmentation cybernétique au niveau des Jambes."
+m_strHasBeenDisabledByWound_Skin="En raison des blessures graves de ce soldat, ses modifications génétiques de la peau ont été trop endommagées, et doivent être remplacées par une augmentation cybernétique."
 
-m_strHasBeenDisabledByAugment_Eyes="This soldier's Genetically Modified Eyes have been replaced by Head Augmentation."
-m_strHasBeenDisabledByAugment_Torso="This soldier's Genetically Modified Chest has been replaced by Torso Augmentation."
-m_strHasBeenDisabledByAugment_Arms="This soldier's Genetically Modified Arms have been replaced by Arms Augmentation."
-m_strHasBeenDisabledByAugment_Legs="This soldier's Genetically Modified Legs have been replaced by Legs Augmentation."
-m_strHasBeenDisabledByAugment_Skin="This soldier's Genetically Modified Skin has been replaced by Augmented body parts."
+m_strHasBeenDisabledByAugment_Eyes="La modification génétique de ce soldat au niveau des Yeux a été remplacée par une Augmentation de la Tête."
+m_strHasBeenDisabledByAugment_Torso="La modification génétique de ce soldat au niveau du Torse  a été remplacée par une Augmentation de Torse."
+m_strHasBeenDisabledByAugment_Arms="La modification génétique de ce soldat au niveau des Bras a été remplacée par une Augmentation des bras."
+m_strHasBeenDisabledByAugment_Legs="La modification génétique de ce soldat au niveau des Jambes a été remplacée par une Augmentation des Jambes."
+m_strHasBeenDisabledByAugment_Skin="La modification génétique de ce soldat au niveau de la peau a été remplacée par une Augmentation de parties du corps."
 
 [UIAlert_GeneMod]
-m_strNewGMAvailable=<XGParam:StrValue0/!TechName/>: New Gene Mod Available
-m_strSoldierGMHeader=ATTENTION
-m_strTitleLabelComplete=GENE MODIFICATION COMPLETE
-m_strTitleLabelNegativeAbility=GENE MODIFICATION CANCELED
-m_strTitleLabelNewGeneModAvailable="NEW GENE MODIFICATION AVAILABLE"
-m_strGoToAWC=View Infirmary
-m_strGrantsAbility="GRANTS ABILITY"
+m_strNewGMAvailable="<XGParam:StrValue0/!TechName/>: Nouvelle modification génétique disponible"
+m_strSoldierGMHeader="ATTENTION"
+m_strTitleLabelComplete="MODIFICATION GÉN. TERMINÉE"
+m_strTitleLabelNegativeAbility="MODIFICATION GÉN. ANNULÉE"
+m_strTitleLabelNewGeneModAvailable="NOUVELLE MODIFICATION GÉNÉTIQUE DISPONIBLE"
+m_strGoToAWC="Voir l'Infirmeri"
+m_strGrantsAbility="CARACTÉRISTIQUES : "
 
 [X2DownloadableContentInfo_WotC_GeneModdingFacility]
-GeneModEventLabel="MOD. GEN. DE %CLASSNAME :"
+GeneModEventLabel="MOD. GÉN. DE %CLASSNAME :"
 
 str_SWO_OnlyMutant_Description="Seulement un Mutant : la perte d'un membre génétiquement modifié à la suite d'une blessure grave désactive cette modification génétique."
 str_SWO_OnlyMutant_Tooltip="La perte d'un membre modifié par un gène à cause d'une blessure grave désactive ce gène. Les membres perdus doivent être restaurés avec l'Augmentation ou un autre Gene Mod (nécessite le SWO Transgénèse macrophagique)."
 str_SWO_MutagenicGrowth_Description="Transgénèse macrophagique : les soldats peuvent être modifiés génétiquement même s'ils sont blessés."
-str_SWO_MutagenicGrowth_Tooltip="Les soldats peuvent être modifiés génétiquement même s'ils sont blessés. Les soldats blessés récupèrent leur santé manquante une fois le Gene Modding terminé. Si le mod Augments est activé, les Gene Mods peuvent être utilisés pour restaurer les membres perdus à la place des Augments.."
+str_SWO_MutagenicGrowth_Tooltip="Les soldats peuvent être modifiés génétiquement même s'ils sont blessés. Les soldats blessés récupèrent leur santé manquante une fois le Gene Modding terminé. Si le mod Augments est activé, les Modifs Gén. peuvent être utilisés pour restaurer les membres perdus à la place des Augments.."
 str_SWO_Biosynthesis_Description="Biosynthèse : Les membres augmentés peuvent être modifiés génétiquement."
 str_SWO_Biosynthesis_Tooltip="Les membres augmentés peuvent être modifiés génétiquement. Les modifications génétiques ne sont plus supprimées par l'augmentation du membre modifié génétiquement."
 
@@ -76,5 +76,5 @@ str_SWO_Biosynthesis_Tooltip="Les membres augmentés peuvent être modifiés généti
 sWarnTitle="ATTENTION"
 
 [XComGameState_ShownGeneModPopups]
-ProjectCompleteNotification="REHABILITATION COMPLETE"
-ProjectCompleteSubTitle="All negative traits removed!"
+ProjectCompleteNotification="RÉHABILITATION TERMINÉE"
+ProjectCompleteSubTitle="Tous les traits négatifs sont enlevés !"

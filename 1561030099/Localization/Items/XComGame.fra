@@ -1,0 +1,88 @@
+
+[MZCurseRounds X2AmmoTemplate]
+FriendlyName="Bloodcursed Rounds"
+FriendlyNamePlural="Bloodcursed Rounds"
+BriefSummary="The Bloodcurse on these rounds is immediatly transfered to any enemy they strike."
+TacticalText="<Bullet/> Bloodcurse does psi damage at the start of each turn.<br> <Bullet/> Additionaly, it will reduce the will and psi offense of the cursed foe.<br><Bullet/> Bloodcurse can be applied once per soldier, but mutiple soldiers can inflict multiple Bloodcurses on a single foe.<br>"
+
+[MZCurseGrenade X2GrenadeTemplate]
+FriendlyName="Bloodcursed Grenade"
+FriendlyNamePlural="Bloodcursed Grenades"
+BriefSummary="A terrible curse in a small package. Deals armour-piercing psi damage and inflicts Bloodcurse in a small area."
+TacticalText="<Bullet/> Bloodcurse does psi damage at the start of each turn.<br> <Bullet/> Additionaly, it will reduce the will and psi offense of the cursed foe.<br><Bullet/> Bloodcurse can be applied once per soldier, but mutiple soldiers can inflict multiple Bloodcurses on a single foe.<br><Bullet/> Grenades can destroy targets' equipment, so relying on grenades too much will reduce our salvage opportunities."
+ThrownAbilityName="Throw Bloodcursed Grenade"
+ThrownAbilityHelpText="Throw a Bloodcursed Grenade at target area. Inflicts Bloodcurse and pierces armour."
+LaunchedAbilityname="Launch Bloodcursed Grenade"
+LaunchedAbilityHelpText="Launch a Bloodcursed Grenade at target area. Inflicts Bloodcurse and pierces armour."
+
+[MZCurseBomb X2GrenadeTemplate]
+FriendlyName="Bloodcursed Bomb"
+FriendlyNamePlural="Bloodcursed Bombs"
+BriefSummary="A terrible curse in a small package. Deals armour-piercing psi damage and inflicts Bloodcurse in a small area."
+TacticalText="<Bullet/> Bloodcurse does psi damage at the start of each turn.<br> <Bullet/> Additionaly, it will reduce the will and psi offense of the cursed foe.<br><Bullet/> Bloodcurse can be applied once per soldier, but mutiple soldiers can inflict multiple Bloodcurses on a single foe.<br><Bullet/> Grenades can destroy targets' equipment, so relying on grenades too much will reduce our salvage opportunities."
+ThrownAbilityName="Throw Bloodcursed Bomb"
+ThrownAbilityHelpText="Throw a Bloodcursed Bomb at target area. Inflicts Bloodcurse and pierces armour."
+LaunchedAbilityname="Launch Bloodcursed Bomb"
+LaunchedAbilityHelpText="Launch a Bloodcursed Bomb at target area. Inflicts Bloodcurse and pierces armour."
+
+[MZCurseWarhead X2GrenadeTemplate]
+FriendlyName="Bloodcursed Warhead"
+FriendlyNamePlural="Bloodcursed Warheads"
+BriefSummary="A terrible curse in a small package. Deals armour-piercing psi damage and inflicts Bloodcurse in a small area."
+TacticalText="<Bullet/> Bloodcurse does psi damage at the start of each turn.<br> <Bullet/> Additionaly, it will reduce the will and psi offense of the cursed foe.<br><Bullet/> Bloodcurse can be applied once per soldier, but mutiple soldiers can inflict multiple Bloodcurses on a single foe.<br><Bullet/> Grenades can destroy targets' equipment, so relying on grenades too much will reduce our salvage opportunities."
+ThrownAbilityName="Throw Bloodcursed Warhead"
+ThrownAbilityHelpText="Throw a Bloodcursed Warhead at target area. Inflicts Bloodcurse and pierces armour."
+LaunchedAbilityname="Launch Bloodcursed Warhead"
+LaunchedAbilityHelpText="Launch a Bloodcursed Warhead at target area. Inflicts Bloodcurse and pierces armour."
+
+[MZRootRounds X2AmmoTemplate]
+FriendlyName="Kneecap Rounds"
+FriendlyNamePlural="Kneecap Rounds"
+BriefSummary="These weighty rounds may immobilize victims. They're an excellent choice for dealing with foes that rely on melee attacks."
+TacticalText="<Bullet/> Chance on hit to prevent movement action for the target.\n<Bullet/> Some special movement abilities may get around this effect."
+
+[MZRootGrenade X2GrenadeTemplate]
+FriendlyName="Adhesion Grenade"
+FriendlyNamePlural="Adhesion Grenades"
+BriefSummary="A recent breakthrough in hard light holography allows for adhesion fields, which we've adapted for their own use. A Mk. I \"Common Ground\" grenade deploys its field at approximately three feet above the point of impact and \"bleeds\" most kinetic energy that counteracts the Earth's gravitic force."
+TacticalText="<Bullet/> Prevents movement action for all units in the affected area.\n<Bullet/> Some special movement abilities may get around this effect."
+ThrownAbilityName="Throw Adhesion Grenade"
+ThrownAbilityHelpText="Throw an Adhesion Grenade at target area. Immobilizes all targets."
+LaunchedAbilityname="Launch Adhesion Grenade"
+LaunchedAbilityHelpText="Launch an Adhesion Grenade at target area. Immobilizes all targets."
+
+[MZBleedRounds X2AmmoTemplate]
+FriendlyName="Knife Rounds"
+FriendlyNamePlural="Knife Rounds"
+BriefSummary="Jagged rounds that inflict bleeding. More shooting? Even more bleeding."
+TacticalText="<Bullet/> Multiple applications of bleeding cause it to do more damage per turn."
+
+[MZBleedGrenade X2GrenadeTemplate]
+FriendlyName="Shrapnel Grenade"
+FriendlyNamePlural="Shrapnel Grenades"
+BriefSummary="Few things ruin someones day like jagged metal tearing through every part of thier body. Which is exactly what this little terror does. Inflicts agony and a stacking bleed."
+TacticalText="<Bullet/> Multiple Stacks of bleeding cause it to do more damage per turn.<br><Bullet/> Agony increases the damage of all DoTs on the victims, including the bleed applied by these grenades.<br><Bullet/> Grenades can destroy targets' equipment, so relying on grenades too much will reduce our salvage opportunities."
+ThrownAbilityName="Throw Shrapnel Grenade"
+ThrownAbilityHelpText="Throw a Shrapnel Grenade at target area. Inflicts Bleeding."
+LaunchedAbilityname="Launch Shrapnel Grenade"
+LaunchedAbilityHelpText="Launch a Shrapnel Grenade at target area. Inflicts Bleeding."
+
+[MZBleedBomb X2GrenadeTemplate]
+FriendlyName="Shrapnel Bomb"
+FriendlyNamePlural="Shrapnel Bombs"
+BriefSummary="Few things ruin someones day like jagged metal tearing through every part of thier body. Which is exactly what this little terror does. Inflicts agony and 2 stacks of bleed."
+TacticalText="<Bullet/> Multiple stacks of bleeding cause it to do more damage per turn.<br><Bullet/> Agony increases the damage of all DoTs on the victims, including the bleed applied by these grenades.<br><Bullet/> Grenades can destroy targets' equipment, so relying on grenades too much will reduce our salvage opportunities."
+ThrownAbilityName="Throw Shrapnel Bomb"
+ThrownAbilityHelpText="Throw a Shrapnel Bomb at target area. Inflicts Bleeding."
+LaunchedAbilityname="Launch Shrapnel Bomb"
+LaunchedAbilityHelpText="Launch a Shrapnel Bomb at target area. Inflicts Bleeding."
+
+[MZBleedWarhead X2GrenadeTemplate]
+FriendlyName="Shrapnel Warhead"
+FriendlyNamePlural="Shrapnel Warheads"
+BriefSummary="Few things ruin someones day like jagged metal tearing through every part of thier body. Which is exactly what this little terror does. Inflicts 2 stacks of both agony and bleeding."
+TacticalText="<Bullet/> Multiple stacks of bleeding cause it to do more damage per turn.<br><Bullet/> Agony increases the damage of all DoTs on the victims, including the bleed applied by these grenades.<br><Bullet/> Grenades can destroy targets' equipment, so relying on grenades too much will reduce our salvage opportunities."
+ThrownAbilityName="Throw Shrapnel Warhead"
+ThrownAbilityHelpText="Throw a Shrapnel Warhead at target area. Inflicts Bleeding."
+LaunchedAbilityname="Launch Shrapnel Warhead"
+LaunchedAbilityHelpText="Launch a Shrapnel Warhead at target area. Inflicts Bleeding."

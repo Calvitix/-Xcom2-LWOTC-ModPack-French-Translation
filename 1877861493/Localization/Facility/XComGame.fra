@@ -2,7 +2,7 @@
 DisplayName="Chambre de modification génétique"
 // CALVITIX IGNORE TRANSLATION
 FacilityName="Infirmerie"
-Summary="Améliore l'infirmerie avec une chambre de modification génétique, qui peut être utilisée pour modifier de manière contraire des unités au niveau génétique."
+Summary="Améliore l'infirmerie avec une chambre de modification génétique, qui peut être utilisée pour modifier le patrimoine génétique des unités, de manière définitive."
 
 [GeneModdingChamberSoldierStaffSlot X2StaffSlotTemplate]
 EmptyText="OUVERT : SOLDAT REQUIS"

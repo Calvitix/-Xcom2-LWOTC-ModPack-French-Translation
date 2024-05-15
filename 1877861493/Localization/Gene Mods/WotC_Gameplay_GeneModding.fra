@@ -1,29 +1,29 @@
 [GM_IRI_Adaptation X2GeneModTemplate]
 DisplayName="Adaptation / Supercompensation"
-Summary="Adaptation: When taking damage, soldier Volonté gain stacking resistance to that damage type until the end of the mission. Supercompensation: if critically wounded, soldier's maximum Health Volonté be increased by 1. Soldier Volonté require extra time to recover. Triggers once per tactical mission"
+Summary="Adaptation : Lorsqu'il subit des dégâts, Le corps de ce Soldat accumulera de la résistance contre ce type de dégâts, jusqu'à la fin de la mission. Supercompensation : s'il est blessé de manière critique, la Santé maximale de ce Soldat augmentera de 1. Le soldat aura besoin d'un temps supplémentaire pour récupérer. Peut se déclencher une fois par mission."
 
 [GM_IRI_BerserkGenes X2GeneModTemplate]
 DisplayName="Gènes de Berserker"
-Summary="Taking damage or panicking Volonté cause this soldier to enter berserker rage and attack enemies in sight."
+Summary="Prendre des dégâts, ou paniquer, va faire entrer ce Soldat dans une rage de Berserker, le faisant attaquer les ennemis à vue."
 
 [GM_IRI_SecondaryHeart X2GeneModTemplate]
 DisplayName="Second Coeur"
-Summary="Upon taking lethal damage, this soldier Volonté begin bleeding out. They Volonté remain conscious, but they Volonté die if they are not Stabilized or evacuated within a few turns."
+Summary="Lorsqu'il prend des dégâts létaux, ce Soldat va commencer à saigner, mais il restera conscient. Cependant, il mourra quand-même au bout de quelques tours s'il n'est pas stabilisé, ou évacué."
 
 [GM_IRI_TranquilMind X2GeneModTemplate]
 DisplayName="Esprit Tranquille"
-Summary="This soldier cannot be targeted or affect by ANY psionic abilities, including those from allied sources or the soldier themselves."
+Summary="Ce soldat ne peut être ciblé ou affecté par aucun effet psionique, que ce soit provenant des ennemis ou des alliés."
 
 [GM_IRI_ChaoticMind X2GeneModTemplate]
 DisplayName="Esprit Chaotique"
-Summary="This soldier receives a large bonus to Psi Offense, but cannot contain the power, and at the end of turn Volonté damage all units within 2 tiles, including allies. Solace and Mind Shield Volonté suppress this effect."
+Summary="Ce Soldat reçoit un bonus important d'attaque Psi, mais il n'arrive pas à contenir cette puissance, et à chaque fin de tour, il risque d'endommager toutes les unités à proximité (deux cases). Un Solace ou un bouclier neuronal peut supprimer cet effet."
 
 [GM_IRI_CheetahGenes X2GeneModTemplate]
 DisplayName="Gènes de Cheetah"
-Summary="This soldier receives +6/4/2 Mobilité when using Light/Medium/Heavy Armor. Moving Volonté make the soldier gradually lose the bonus, and even transform it into a penalty. Lost mobilité is gradually recovered each turn the soldier doesn't move. Soldier has better eyesight during the day and worse during the night."
+Summary="Ce Soldat va obtenir un bonus de mobilité de +6/4/2 en fonction du type d'armure (légère/moyenne/lourde). Son endurance est altérée, et le Soldat perdra progressivement son bonus s'il ne s'arrête jamais de se déplacer, pouvant même aller jusqu'à des pénalités, qui disparaîtront progressivement pour chaque tour où il ne bouge pas. Le Soldat a également une meilleure vision durant le jour, mais une plus mauvaix la nuit."
 
 [GM_IRI_LizardReflex X2GeneModTemplate]
 DisplayName="Réflexes de Vipère"
-Summary="Soldier gains +20 Esquive, and when Dodging enemy attacks, they Volonté move out of the way of the attack, completely avoid the damage. Triggers once per turn. Soldier suffers negligible penalties to combat performance in cold and hot environments."
+Summary="Ce Soldat gagne +20 en Esquive, et lorsqu'il évite les attaques ennemies, elles peuvent complètement échouer, même avec un résultat positif du tir. Cette dernière capacité se déclenche une fois par tour. Il souffre par contre de légères pénalités dans les environnements trop chauds ou trop froids."
  
  

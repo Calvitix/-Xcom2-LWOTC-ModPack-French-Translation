@@ -1,18 +1,18 @@
 [X2Ability_ExtendedPerkPack]
 LocCombatDrugsEffect="Drogues de Combat"
-LocCombatDrugsEffectDescription="This fumigène effect was created by a unit with Combat Drugs, and grants +<Ability:COMBATDRUGS_AIM/> aim and +<Ability:COMBATDRUGS_CRIT/> critical chance."
+LocCombatDrugsEffectDescription="Les effets fumigènes créés par une unité avec des Drogues de Combat, et accordent +<Ability:COMBATDRUGS_AIM/> de visée et +<Ability:COMBATDRUGS_CRIT/> chances de coup critique."
 
 LocBolsteredWallEffect="Mur à traverses"
-LocBolsteredWallEffectDescription="While Mur protecteur is in effect, gagne +<Ability:BOLSTEREDWALL_DODGE_BONUS/> bonus Esquive."
+LocBolsteredWallEffectDescription="Lorsque 'Mur protecteur' est actif, gagne +<Ability:BOLSTEREDWALL_DODGE_BONUS/> de bonus d'esquive."
 
 LocFaultlessDefenseEffect="Défense sans faille"
-LocFaultlessDefenseEffectDescription="While Mur protecteur is active, you cannot be critically hit."
+LocFaultlessDefenseEffectDescription="Lorsque 'Mur protecteur' est actif, vous ne pouvez pas être touché de manière critique."
 
 LocRegenerativeMistEffect="Brume régénératrice"
-LocRegenerativeMistEffectDescription="This fumigène effect was created by a unit with Regenerative Mist, granting health restoration."
+LocRegenerativeMistEffectDescription="Les effets fumigènes créés par une unité avec 'Brume Regénérative', granting health restoration."
 
 LocStayCoveredEffect="Rester à couvert"
-LocStayCoveredEffectDescription="Removes the Defense penalty from Mur protecteur."
+LocStayCoveredEffectDescription="Supprime la pénalité de défense de 'Mur protecteur'."
 
 LocPerfectGuardEffect="Garde parfaite"
-LocPerfectGuardEffectDescription="While Mur protecteur is in effect, gagne +<Ability:PERFECTGUARD_ARMOR_BONUS/> bonus Armor."
+LocPerfectGuardEffectDescription="Lorsque 'Mur protecteur' est actif, gagne +<Ability:PERFECTGUARD_ARMOR_BONUS/> bonus de blindage."
